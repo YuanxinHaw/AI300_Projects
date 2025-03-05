@@ -1,0 +1,1001 @@
+account_id,tenure_months,tenure_months,num_referrals,contract_type,total_monthly_fee,total_charges_quarter,total_refunds,gender,age,num_dependents,status,city,population
+NFEJ-WVYXF,4,4,0,Month-to-Month,73.9,280.85,0,Male,50,0,Churned,"Costa Mesa",62069
+BFIN-DLMOA,3,3,3,Month-to-Month,83.9,267.4,0,Female,75,0,Churned,Camarillo,42853
+AFEO-XOOCP,63,63,8,"Two Year",84.65,5377.8,0,Male,52,0,Stayed,Napa,63947
+DEMQ-MFXWC,65,65,3,"Two Year",90.45,5957.9,0,Female,43,1,Stayed,Sheridan,1219
+AIPP-VTDXJ,72,72,0,"Two Year",101.3,7261.25,0,Female,32,0,Stayed,"La Mesa",24005
+CJHA-SRKIB,56,56,0,"Two Year",45.05,2560.1,0,Female,39,0,Stayed,"Los Olivos",1317
+CDSG-JLJOW,71,71,9,"Two Year",95.75,6849.4,0,Female,58,2,Stayed,Woodlake,8870
+MPGE-PVFBN,1,1,0,"One Year",72.1,72.1,0,Female,72,0,Joined,"San Marcos",6760
+LQQQ-TJKDU,1,1,0,Month-to-Month,25.1,25.1,0,Male,67,0,Churned,"Morgan Hill",41707
+JEHS-UYRVX,50,50,0,"One Year",25.2,1306.3,0,Female,79,0,Stayed,Ahwahnee,1968
+NEDW-JUTZX,13,13,1,Month-to-Month,94.1,1215.6,0,Female,26,0,Churned,"Carnelian Bay",1943
+HBIR-OSCLJ,23,23,1,Month-to-Month,83.75,1849.95,0,Female,30,2,Stayed,Alpaugh,1054
+KOXX-XOTNU,3,3,0,Month-to-Month,19.85,57.2,0,Female,22,0,Joined,Keeler,71
+EDRJ-TSFHQ,55,55,10,"One Year",103.7,5656.75,0,Female,37,3,Stayed,Parlier,12587
+ILYA-YMAZQ,37,37,1,"One Year",91.2,3247.55,0,Male,23,3,Stayed,"Moss Beach",3064
+HTNO-EBIGR,49,49,5,"One Year",20.45,900.9,0,Female,48,0,Stayed,"Los Angeles",3642
+GGNP-KVFOQ,66,66,9,"One Year",115.8,7942.15,0,Male,28,0,Stayed,"Los Angeles",55668
+BTJY-YSXTR,67,67,0,"One Year",20.55,1343.4,30.53,Female,28,0,Stayed,Calexico,27804
+AUVC-CVWLX,59,59,4,Month-to-Month,94.75,5597.65,0,Female,60,0,Stayed,"Los Angeles",58198
+HPEM-SAPQB,27,27,0,"One Year",78.2,2078.95,0,Female,20,0,Stayed,Fremont,46917
+IEDV-LPUMA,72,72,5,"Two Year",85.15,6316.2,0,Male,19,0,Stayed,Visalia,36718
+IQDD-YQUBG,14,14,0,"One Year",51.45,727.85,0,Female,64,0,Stayed,Lodi,45755
+COZY-HIJAK,1,1,0,Month-to-Month,44.3,44.3,0,Male,54,0,Joined,Calistoga,7384
+GPAX-ILXLY,29,29,0,Month-to-Month,94.2,2607.6,0,Male,50,0,Stayed,Farmington,596
+DUQI-CCNHE,64,64,0,"One Year",81.25,5567.55,0,Male,25,0,Stayed,Tulelake,2595
+HQFH-XUZYZ,40,40,0,"Two Year",91.55,3673.6,0,Female,72,0,Stayed,Ojai,21633
+FIWL-DSBUU,40,40,0,Month-to-Month,104.5,4036.85,0,Male,51,0,Churned,"Desert Hot Springs",5529
+MZQJ-OSZKJ,6,6,10,Month-to-Month,50.35,314.55,0,Female,30,0,Stayed,Inverness,1004
+HIZY-XWGJG,30,30,0,Month-to-Month,64.5,1888.45,0,Male,58,0,Stayed,"Santa Rosa",35057
+BPMN-XICPJ,70,70,3,"One Year",104.8,7308.95,6.11,Male,66,0,Stayed,Wilmington,53323
+BYZS-LTHWI,1,1,0,Month-to-Month,19.85,19.85,0,Male,32,0,Churned,"West Point",2198
+BTUI-SBNBD,32,32,9,"One Year",93.95,2861.45,0,Male,71,1,Stayed,"Morongo Valley",3499
+IZMU-ORFIM,16,16,8,Month-to-Month,90.8,1442.2,0,Male,49,2,Stayed,"Palo Verde",291
+ALYE-SMSWW,49,49,1,"One Year",84.35,4059.35,0,Male,61,0,Churned,Valyermo,413
+HOCF-TNEOJ,71,71,2,"Two Year",58.25,4145.9,0,Female,40,0,Stayed,Cambria,6526
+MXYN-XDLIM,37,37,1,Month-to-Month,40.2,1448.8,0,Male,52,1,Churned,Angwin,3641
+EGZT-IEJXV,7,7,0,Month-to-Month,73.85,511.25,13.03,Female,29,0,Churned,"San Diego",34902
+ISWV-WHAIZ,61,61,1,"Two Year",88.1,5526.75,0,Female,62,0,Stayed,"Monterey Park",26933
+HQCS-IIBJD,15,15,0,Month-to-Month,101.35,1553.95,0,Male,42,0,Churned,"Big Oak Flat",167
+LUWU-HWJIA,26,26,0,Month-to-Month,45.8,1147,0,Female,51,2,Stayed,"Stevenson Ranch",9937
+HPEK-PTEZX,72,72,9,Month-to-Month,94.65,6747.35,0,Male,39,0,Stayed,"North Highlands",32202
+DLFY-SXHWM,66,66,0,Month-to-Month,89.4,5976.9,36.02,Male,55,0,Stayed,Glenhaven,175
+IZAE-LLKQO,2,2,0,Month-to-Month,86.25,181.65,0,Female,40,0,Churned,Alhambra,30635
+HSAV-LYWGJ,44,44,0,"One Year",74.85,3268.05,17.91,Female,76,0,Stayed,"Santa Monica",23559
+GUWH-NOZWJ,12,12,0,Month-to-Month,89.75,1052.4,0,Female,57,0,Churned,Lodi,45755
+JNTU-CITNB,69,69,1,"Two Year",109.95,7634.25,0,Male,71,0,Stayed,"Los Angeles",54492
+BOJD-CWTTH,3,3,0,Month-to-Month,19.85,63.75,0,Female,24,0,Churned,Stockton,30476
+EZAH-UMQJK,27,27,0,"Two Year",86.45,2401.05,0,Female,77,0,Stayed,Fallbrook,42239
+JINB-ABHVD,26,26,0,Month-to-Month,20.3,511.25,0,Male,57,0,Stayed,Randsburg,117
+JKVN-SODYE,24,24,0,"Two Year",19.55,470.2,0,Female,51,0,Stayed,"La Mirada",47568
+COSM-NRJIM,47,47,7,Month-to-Month,87.2,4017.45,0,Male,54,1,Stayed,Tuolumne,3979
+KIGB-NJKNW,62,62,2,"Two Year",108.15,6825.65,0,Male,42,3,Stayed,"San Diego",25569
+LCDZ-ZQVJT,7,7,8,"Two Year",89,605.45,0,Male,71,0,Stayed,Fresno,21010
+BPUM-JRBCR,27,27,6,Month-to-Month,74.4,1972.35,0,Female,56,2,Stayed,"Del Rey",1965
+KJQF-ZAURE,25,25,0,"Two Year",35.05,844.45,0,Female,32,3,Stayed,Landers,2182
+IVST-CZJKE,58,58,1,"One Year",105.5,6205.5,0,Female,73,0,Churned,Oceano,7435
+AHDR-OUQUJ,9,9,0,Month-to-Month,75.2,633.85,0,Female,59,0,Stayed,Clarksburg,1417
+FQMD-JCIWF,6,6,1,Month-to-Month,84.35,474.9,0,Female,78,0,Churned,Irvine,26419
+KRIO-KQKZH,12,12,0,Month-to-Month,19.4,198.1,0,Female,48,1,Stayed,Middletown,7789
+KVHB-NGRBE,70,70,9,"Two Year",57.8,4039.3,1.01,Female,22,0,Stayed,"Lost Hills",2502
+IIIC-GRGVZ,30,30,0,Month-to-Month,84.3,2438.6,0,Male,52,0,Stayed,"Garden Grove",23481
+BHHC-KRKQR,71,71,1,"One Year",100.55,7113.75,16.99,Male,22,1,Stayed,Indio,2743
+FMEU-GBJOZ,30,30,2,"One Year",19.8,576.65,0,Male,33,0,Stayed,Oxnard,77791
+KPXR-IUPQM,4,4,0,"One Year",75.35,273.4,0,Male,66,0,Stayed,Chino,75319
+KOKB-DYPWN,8,8,1,"Two Year",20.15,165.5,0,Male,30,3,Stayed,Turlock,40545
+JZSM-JUQYQ,19,19,0,Month-to-Month,59.55,1144.6,0,Male,40,0,Stayed,"Los Gatos",10172
+EPKZ-MFTKX,72,72,0,"Two Year",69.65,4908.25,0,Male,53,0,Stayed,Clovis,46858
+BPNI-BCSPD,66,66,1,"Two Year",56.6,3789.2,0,Male,38,0,Stayed,"Woodland Hills",25988
+MIAI-ISVPO,1,1,0,Month-to-Month,75.9,75.9,0,Male,23,0,Churned,Temecula,46171
+EWTL-FJAWT,50,50,4,Month-to-Month,109.65,5405.8,0,Female,62,0,Stayed,"Midway City",8660
+BFVJ-LKHRD,46,46,0,Month-to-Month,84.25,3847.6,0,Female,37,0,Stayed,Oakland,24518
+BVTA-MWIKK,72,72,4,"Two Year",92.65,6733,0,Female,35,1,Stayed,"San Anselmo",16849
+KFUY-YZLQP,1,1,0,Month-to-Month,50.1,50.1,0,Female,19,0,Joined,"Lake Elsinore",38519
+ASKD-HPTRN,72,72,0,"Two Year",109.9,7624.2,0,Female,19,0,Stayed,Downey,40152
+ENZE-ZWRWT,67,67,1,"One Year",50.55,3431.75,0,Female,44,3,Stayed,Challenge,262
+HHQC-UBCYU,32,32,9,Month-to-Month,62.45,2045.55,0,Female,29,1,Stayed,"Santa Clara",52986
+HUQT-CQZCW,27,27,2,Month-to-Month,75.2,1929.35,0,Female,80,0,Churned,Perris,26357
+LYCV-MDKMI,50,50,10,"Two Year",70.5,3486.65,0,Male,53,2,Stayed,Rescue,3815
+IOJG-OBBTL,71,71,1,"Two Year",20.1,1389.6,0,Female,45,2,Stayed,Clio,88
+IQZD-JZZPZ,72,72,1,"Two Year",114.3,8058.55,0,Male,43,1,Stayed,Lompoc,51737
+BTHX-GPBHH,3,3,0,Month-to-Month,19.75,58.85,0,Female,41,0,Churned,"Pilot Hill",1173
+BFWR-SBYVP,72,72,1,"Two Year",69.85,5102.35,25.24,Male,62,2,Stayed,"Mission Hills",17112
+LJEX-EJGOF,49,49,0,Month-to-Month,103.7,5036.3,0,Male,38,1,Churned,"Los Angeles",15140
+ACOG-YBIQX,63,63,2,"Two Year",19.95,1234.8,0,Male,56,0,Stayed,Pescadero,2055
+JLFC-FDPQV,12,12,1,Month-to-Month,29.3,355.9,0,Female,70,1,Stayed,Aromas,3373
+CONV-ESGRR,27,27,5,Month-to-Month,54.75,1510.3,0,Male,54,6,Stayed,Badger,273
+DSAA-NEXTT,35,35,0,Month-to-Month,60.55,1982.6,0,Female,57,0,Stayed,Parlier,12587
+FKHL-YHUMS,1,1,0,Month-to-Month,95.45,95.45,0,Male,56,0,Churned,"La Puente",84965
+AMNQ-VZXKW,52,52,1,"Two Year",50.2,2554,27.01,Male,35,2,Stayed,"Berry Creek",1279
+DJRL-HLIXM,72,72,8,"Two Year",63.8,4684.3,0,Female,61,3,Stayed,Fulton,476
+DZYM-PSAXC,11,11,0,"One Year",36.05,402.6,0,Female,54,1,Stayed,Gardena,9960
+MFPZ-SFINC,5,5,0,Month-to-Month,96.1,453.4,0,Male,61,0,Churned,Fallbrook,42239
+FYNO-DIHWI,71,71,0,"One Year",105.75,7382.85,0,Male,80,0,Stayed,"San Diego",74232
+CXKH-MVKVG,11,11,0,"One Year",40.4,422.6,0,Female,23,0,Stayed,"Santa Ana",70011
+JHRC-MTTZU,71,71,2,"One Year",84.8,6046.1,0,Female,50,0,Stayed,Darwin,64
+IZZY-RXUIO,9,9,0,Month-to-Month,19.85,178.8,0,Male,56,0,Stayed,"San Bernardino",53636
+DGOT-FZWZP,6,6,0,Month-to-Month,55.15,322.9,0,Female,29,0,Stayed,Upland,23331
+JNHI-WWKFP,11,11,0,Month-to-Month,84.8,888.75,0,Male,54,0,Stayed,"El Dorado Hills",22028
+MCEQ-AVFGI,49,49,10,"Two Year",20.15,973.35,0,Female,31,0,Stayed,Malibu,19630
+DEDZ-KMJAN,3,3,9,Month-to-Month,58.7,168.6,0,Female,25,2,Joined,"Santa Rosa",36125
+HIFH-WTXHG,2,2,0,Month-to-Month,45.35,89.5,0,Male,63,0,Churned,Palmdale,6787
+GHOE-KQFPN,8,8,0,Month-to-Month,94.7,740.3,0,Male,44,0,Churned,Hoopa,3041
+NCIK-QIAZG,39,39,9,"One Year",100,3835.55,0,Male,62,3,Stayed,Samoa,395
+BSFO-TTIGZ,1,1,0,Month-to-Month,70.1,70.1,0,Female,43,0,Churned,"Burnt Ranch",485
+KIUQ-OTUZK,5,5,1,Month-to-Month,69.95,330.15,0,Female,55,0,Churned,Anderson,21418
+AAJU-HMJLK,55,55,0,"One Year",66.05,3462.1,44.53,Female,41,0,Stayed,"San Diego",25232
+EOID-HJLQW,72,72,0,"Two Year",61.2,4390.25,0,Male,43,0,Stayed,"Santa Margarita",2687
+JOMK-LJYLD,41,41,0,Month-to-Month,106.3,4443.45,0,Female,63,0,Churned,"Los Angeles",49431
+LVIS-ICPPJ,60,60,0,"Two Year",39.6,2424.5,38.46,Male,38,0,Stayed,"San Jose",57748
+KZMD-FJDBQ,6,6,0,Month-to-Month,89.3,577.6,0,Female,43,0,Churned,"San Diego",46086
+JLHQ-JALHL,46,46,6,"Two Year",108.9,4854.3,0,Female,29,0,Stayed,Ione,9752
+JAEL-MLWTO,15,15,0,Month-to-Month,19.9,320.45,0,Female,46,0,Stayed,"San Mateo",31882
+HRZZ-NCRAA,11,11,1,Month-to-Month,45.9,521.9,0,Male,54,0,Stayed,"Santa Cruz",36631
+MBIF-PCQGH,56,56,0,"Two Year",99.9,5706.3,0,Female,80,0,Stayed,Winchester,4093
+BFBH-OMPIQ,68,68,0,"Two Year",64.35,4539.6,0,Female,38,0,Stayed,"Sherman Oaks",22085
+AJHQ-UGVZV,36,36,0,Month-to-Month,84.9,3067.2,0,Male,46,0,Churned,Thornton,1472
+FRFU-HIOLG,2,2,0,Month-to-Month,19.35,46.35,0,Male,42,0,Joined,Colusa,7503
+CKLX-YHHDZ,1,1,0,Month-to-Month,50.15,50.15,0,Female,63,0,Joined,Lancaster,35109
+ICWM-ILKLF,3,3,0,Month-to-Month,44.6,122.7,0,Female,62,0,Joined,Gonzales,9023
+JRZP-PQBPE,36,36,3,Month-to-Month,93.6,3366.05,16.56,Male,24,0,Stayed,"San Ysidro",28488
+GJRN-EGNXG,23,23,0,Month-to-Month,90.6,1943.2,4.73,Male,21,0,Churned,Novato,13361
+HZJA-UDLJA,22,22,9,Month-to-Month,57.95,1271.8,0,Male,21,3,Stayed,Gilroy,49968
+AYBO-DMVWT,3,3,0,Month-to-Month,85.8,272.2,0,Female,20,0,Churned,Vernalis,274
+KVXT-CMVHD,34,34,0,"One Year",99.85,3343.15,0,Male,72,0,Stayed,"Newport Beach",28687
+HLWP-ZXSZW,40,40,0,"One Year",62.05,2511.55,0,Male,38,0,Stayed,"Los Angeles",27866
+GWRT-NSIIF,20,20,0,Month-to-Month,64.4,1398.6,0,Male,64,0,Stayed,Turlock,40545
+CFBU-KXHVB,46,46,9,"Two Year",19.4,967.85,0,Female,61,1,Stayed,"Beverly Hills",21397
+AKHG-BKCPI,70,70,0,"Two Year",25.15,1790.15,0,Male,28,3,Stayed,Escondido,49281
+KUEU-USXQL,2,2,0,Month-to-Month,19.3,44.4,0,Female,34,0,Joined,Gardena,47758
+CRRL-UTCQZ,59,59,0,Month-to-Month,93.85,5574.75,8.13,Male,70,0,Churned,"South Dos Palos",343
+EQLQ-FIIDR,72,72,4,"Two Year",105.55,7542.25,0,Male,22,3,Stayed,"San Jose",31926
+JKQY-EUEIN,37,37,0,Month-to-Month,101.9,3545.35,0,Female,22,0,Churned,"El Monte",62660
+BINK-SFVDC,3,3,0,Month-to-Month,74.4,229.55,8.74,Male,21,2,Churned,"La Habra",67354
+HGPK-QKMTX,54,54,0,"One Year",101.5,5373.1,0,Female,75,0,Churned,Visalia,44741
+FVKR-PSABX,60,60,1,Month-to-Month,95.75,5742.9,0,Male,59,0,Churned,"San Francisco",30587
+KVPR-WOULC,3,3,0,Month-to-Month,60.25,170.5,0,Female,62,0,Joined,Stockton,23789
+ENLL-VWOIH,55,55,0,"Two Year",59.2,3175.85,0,Male,20,0,Stayed,Essex,115
+CVDZ-EXPHL,1,1,0,Month-to-Month,44.4,44.4,0,Female,58,0,Churned,"Los Gatos",13290
+EXNS-UEATN,15,15,7,"One Year",20.55,295.95,0,Female,23,0,Stayed,Fresno,60889
+HEXW-EFQKC,1,1,0,Month-to-Month,20.9,20.9,0,Female,54,0,Churned,Encino,27614
+AFKF-DLQEA,25,25,0,"One Year",19.5,516.3,0,Male,29,0,Stayed,Bellflower,72893
+CXMU-LKPFG,22,22,9,Month-to-Month,87,1850.65,0,Male,56,0,Stayed,Sonora,25340
+LIOP-QPMQR,3,3,0,Month-to-Month,90.7,237.65,0,Male,47,0,Joined,Temecula,46171
+HYWZ-RWGIM,67,67,0,"Two Year",85.25,5714.2,1.31,Female,21,0,Stayed,"Long Beach",91664
+FRVJ-HHVDM,62,62,1,"Two Year",60.15,3753.2,0,Male,47,0,Stayed,Herlong,946
+HBUG-YOLSC,41,41,0,"One Year",80.55,3263.9,0,Female,51,0,Stayed,Petaluma,35419
+ENUG-YTBFL,44,44,0,Month-to-Month,50.15,2139.1,0,Female,64,0,Stayed,Mojave,4882
+HAYA-MUIVX,53,53,0,"One Year",94.45,5042.75,0,Female,59,0,Stayed,Callahan,290
+DYYD-ZWRAP,48,48,4,"Two Year",20.05,1036,0,Male,44,0,Stayed,Bodega,584
+EPVL-FDQBR,54,54,2,"One Year",115.6,6431.05,0,Female,79,0,Stayed,Denair,5513
+MQMY-TVVOX,66,66,1,"Two Year",85.25,5538.35,0,Male,58,0,Stayed,Jamestown,9559
+CKIY-CLVEF,13,13,0,"Two Year",35.4,450.4,0,Female,58,0,Stayed,Alderpoint,261
+CWIK-ENTND,63,63,1,"Two Year",83.5,5435,0,Male,19,0,Stayed,"Garden Grove",43491
+DEJD-TRRGW,10,10,0,Month-to-Month,56.75,503.25,0,Male,23,0,Stayed,Escondido,43436
+IEXT-QSKQG,29,29,0,Month-to-Month,98.8,2807.1,0,Male,62,0,Stayed,Lomita,21065
+GJVQ-ANYZA,41,41,1,"One Year",73,3001.2,0,Male,34,0,Churned,Orangevale,32040
+GOOW-SKUXF,45,45,0,"One Year",102.15,4735.35,0,Female,74,0,Stayed,Greenville,2064
+BOCE-YWAVJ,32,32,0,"One Year",64.85,2010.95,0,Male,43,0,Stayed,"Fort Bragg",14417
+BLPU-JIKKV,65,65,4,"Two Year",24.75,1715.1,0,Male,52,2,Stayed,Mecca,8768
+GGXB-FLRNY,55,55,0,Month-to-Month,96.75,5238.9,0,Male,37,1,Churned,Torrance,31678
+HHCU-TDYWQ,11,11,2,"Two Year",19.65,225.75,0,Male,48,2,Stayed,Victorville,12083
+LGSK-RTDLW,61,61,1,Month-to-Month,99.4,5943.65,0,Male,49,0,Stayed,"Mount Hermon",77
+IKWO-MRGPT,25,25,5,Month-to-Month,19.15,477.6,0,Male,49,2,Stayed,"Santa Barbara",10986
+GOZR-QGNIA,1,1,0,Month-to-Month,79.7,79.7,0,Female,39,0,Churned,"Santa Rosa",36125
+DESD-WFMGP,27,27,0,Month-to-Month,88.3,2467.75,0,Female,72,0,Churned,Guinda,228
+NAJD-OGVMX,5,5,0,Month-to-Month,75.55,349.65,0,Female,78,0,Churned,"Rancho Cordova",299
+MMVL-RANCG,46,46,1,"Two Year",20.2,917.45,0,Male,54,1,Stayed,Sultana,306
+HXVP-UAJWC,2,2,5,Month-to-Month,71.65,135.75,0,Female,33,1,Joined,"Fort Irwin",9465
+DYER-FHZJM,57,57,9,"Two Year",20.1,1087.7,0,Female,32,3,Stayed,"La Mesa",44652
+JCLF-RTZUI,60,60,3,"One Year",100.5,6029,0,Female,74,0,Stayed,"Palomar Mountain",234
+NFVJ-WDPDG,1,1,0,Month-to-Month,70.45,70.45,0,Male,42,0,Churned,"San Jose",51706
+MBXL-WYYAR,28,28,8,"One Year",100.35,2799,0,Male,39,2,Stayed,Topanga,5451
+KUAD-PCVEL,24,24,0,"Two Year",20.3,459.95,0,Female,78,0,Stayed,Capay,262
+IXNB-UEDHN,62,62,0,"One Year",92.05,5755.8,14.21,Female,27,0,Stayed,Oxnard,77791
+EZGJ-PBOYY,5,5,0,Month-to-Month,54.2,308.25,0,Female,21,0,Churned,Sacramento,21313
+IPYF-YGVMT,20,20,9,Month-to-Month,20.35,442.6,0,Female,58,3,Stayed,Stockton,19109
+LGYH-JBGWB,1,1,0,Month-to-Month,70.75,70.75,0,Female,56,0,Churned,Felton,8728
+LDVJ-VWXLY,35,35,0,"One Year",102.35,3626.1,0,Male,26,0,Churned,Lewiston,1845
+MAGT-QFVKR,52,52,0,"Two Year",50.5,2566.3,0,Female,78,0,Stayed,"Sun Valley",46639
+IFAG-PVBAX,30,30,1,Month-to-Month,85,2624.25,0,Female,25,0,Churned,Anza,3745
+BXYZ-NDDKQ,72,72,7,"Two Year",42.1,2962,0,Male,36,0,Stayed,Bell,105285
+MNUO-ODOWW,70,70,0,"Two Year",114.6,7882.5,0,Male,36,2,Stayed,Jamul,8759
+FGXM-WJRJR,66,66,0,"Two Year",65.7,4378.9,0,Male,37,2,Stayed,Azusa,57775
+DTWE-GLZPE,72,72,9,"Two Year",109.55,8165.1,0,Female,34,0,Stayed,Lodi,22073
+GNRC-WMTLI,28,28,3,Month-to-Month,20.5,563.05,0,Female,27,0,Stayed,Leggett,321
+GHNP-IDKQB,2,2,6,Month-to-Month,62.15,113.1,0,Female,59,0,Joined,Hornitos,128
+EJLT-PCQDP,13,13,0,Month-to-Month,73.35,931.55,49.02,Male,64,0,Stayed,Thermal,17018
+ETRK-DXZEJ,58,58,0,"Two Year",70.1,4048.95,0,Male,26,0,Stayed,Lafayette,23996
+AXHE-KTVGM,18,18,2,"One Year",54.4,957.1,0,Female,43,0,Stayed,"Beverly Hills",21397
+AQCV-BEDYN,71,71,9,"Two Year",23.9,1626.4,0,Male,39,1,Stayed,Alameda,13996
+IXOD-CNKCE,70,70,0,"Two Year",44.6,3058.15,0,Female,62,0,Stayed,Herald,1745
+LECS-PUCTU,9,9,0,Month-to-Month,95.5,829.1,0,Male,45,0,Churned,Guerneville,4913
+CVTW-ZPFVW,63,63,0,"One Year",104.5,6590.8,0,Male,26,0,Stayed,Benicia,25578
+KYEN-QNOHX,7,7,0,Month-to-Month,61.4,438.9,0,Female,38,0,Stayed,Biola,807
+ADHD-XTYYU,5,5,1,Month-to-Month,25.9,135,0,Male,34,1,Churned,"San Francisco",73117
+BJQF-TWCFZ,9,9,0,Month-to-Month,80.55,653.9,2.28,Female,38,0,Stayed,Anderson,21418
+LDTC-LCWMX,60,60,10,"One Year",97.95,5867,0,Male,76,0,Stayed,Hilmar,7177
+KWLV-VMDWF,27,27,1,Month-to-Month,95.55,2510.2,0,Male,70,0,Churned,Parlier,12587
+BXNY-EDAOG,41,41,7,"One Year",101.6,3930.55,0,Female,21,1,Stayed,Riverside,71678
+GTFV-TUMAU,24,24,0,Month-to-Month,88.95,2072.75,0,Female,63,0,Stayed,"San Jose",44103
+ABHW-EXJZF,38,38,0,"Two Year",20.3,743.05,0,Female,43,0,Stayed,Bakersfield,44588
+BHEM-ZUNAO,25,25,0,Month-to-Month,78.35,1837.9,0,Female,19,0,Stayed,Taylorsville,513
+FHQH-INECE,40,40,8,Month-to-Month,80,3168.75,41.74,Male,41,0,Stayed,Etna,2156
+AYXY-YUILU,8,8,0,Month-to-Month,49.85,365.55,13.01,Female,48,0,Churned,Willows,8812
+DNRQ-EWRRN,13,13,1,Month-to-Month,19.85,252,0,Male,35,3,Stayed,Mather,929
+GMEU-JUEJF,64,64,0,Month-to-Month,91.8,5960.5,0,Male,21,1,Stayed,Fairfax,8486
+AVGM-WSWSR,62,62,1,Month-to-Month,100.15,6283.3,0,Female,32,0,Churned,Hydesville,1201
+BXFF-ESMRZ,20,20,0,Month-to-Month,69.8,1540.35,0,Female,51,0,Stayed,Graton,390
+JXMR-OYZAS,14,14,1,Month-to-Month,46.35,667.7,0,Male,53,0,Churned,Shafter,15177
+IMUB-LFCYS,59,59,0,"Two Year",25.45,1534.05,0,Female,40,2,Stayed,"San Simeon",471
+IDMR-BXPKW,59,59,4,"Two Year",75.95,4542.35,0,Female,40,0,Stayed,"Castro Valley",13212
+CHRD-UNUIE,45,45,3,"One Year",78.75,3600.65,0,Male,33,0,Stayed,Ranchita,339
+KVJF-INTCJ,1,1,0,Month-to-Month,25.25,25.25,0,Female,77,0,Churned,Vista,44692
+BIOU-KRNGR,49,49,0,Month-to-Month,75.2,3678.3,0,Male,62,0,Churned,"Rancho Cordova",49729
+BGOQ-UWRFH,28,28,0,Month-to-Month,74.9,2068.55,0,Male,60,0,Churned,Wasco,22760
+HXGW-VRLWP,72,72,1,"Two Year",111.9,8071.05,0,Male,32,0,Stayed,"Garden Grove",50641
+HJSI-JNIYS,13,13,0,Month-to-Month,81.9,1028.9,0,Female,47,0,Stayed,Pasadena,27891
+CJUA-YMKBA,4,4,1,Month-to-Month,18.85,84.2,0,Male,41,1,Stayed,"Oak Run",829
+CTPP-KXEHA,63,63,1,Month-to-Month,81.55,5029.05,0,Female,54,0,Stayed,Irvine,6301
+GJFL-ICJFY,10,10,0,"Two Year",29.6,299.05,0,Female,41,0,Stayed,"North Hollywood",16996
+CODR-PPGCW,10,10,0,Month-to-Month,45.55,402.6,0,Male,28,0,Churned,Newhall,30742
+GKNI-LFHIE,65,65,0,"One Year",93.55,6069.25,0,Male,50,0,Stayed,Murphys,4353
+GIXZ-AWFIH,21,21,0,Month-to-Month,41.9,840.1,0,Female,77,0,Churned,"San Diego",34902
+BMEW-ZTVXS,29,29,5,"Two Year",20.2,558.8,0,Female,40,1,Stayed,Ferndale,2965
+JGSX-UYNPZ,22,22,1,"One Year",67.5,1544.05,0,Male,49,0,Churned,Temecula,46171
+LRXY-WKYDP,2,2,0,Month-to-Month,76.5,162.45,0,Male,30,0,Churned,"Elk Grove",47065
+CVLI-HKVLR,13,13,5,Month-to-Month,84.05,1095.3,23.97,Male,40,0,Churned,Wilton,5889
+EVNX-WXZHW,67,67,0,Month-to-Month,102.95,6886.25,0,Female,28,0,Churned,"White Water",805
+CFAG-IDNVZ,18,18,0,"Two Year",73.55,1359.45,0,Female,71,0,Stayed,Aguanga,2433
+LLJJ-ZXHBP,62,62,5,"One Year",70.75,4263.45,0,Female,58,2,Stayed,Pescadero,2055
+FZED-SQJOJ,7,7,0,Month-to-Month,98.05,713,0,Male,32,0,Churned,Alviso,2147
+DHWB-VXMGE,48,48,1,"One Year",60.6,2985.25,0,Female,35,0,Stayed,"Rancho Cucamonga",12937
+HAFM-ZSHTE,6,6,0,"One Year",19,105.5,0,Female,38,3,Stayed,"Round Mountain",459
+ITQP-JCHSH,22,22,8,"One Year",56.25,1292.2,0,Male,56,0,Stayed,Orleans,574
+DSDX-PNXZS,72,72,7,"Two Year",99.4,7285.7,0,Male,21,0,Stayed,"Monte Rio",1537
+DJBY-MGRSE,71,71,0,"One Year",97.65,6687.85,0,Male,47,0,Stayed,"Chino Hills",66754
+AVUC-QTIFM,1,1,0,Month-to-Month,54.65,54.65,0,Female,41,0,Joined,"Los Angeles",47534
+BUAT-KXMKR,63,63,0,"Two Year",71.9,4479.2,0,Male,20,0,Stayed,Bakersfield,44915
+KOKY-MWBVJ,72,72,1,"Two Year",116.4,8543.25,0,Female,61,2,Stayed,Placentia,48170
+DLUY-IDCPT,53,53,0,"Two Year",105.55,5682.25,0,Female,33,0,Stayed,"Redwood City",10658
+JKET-MTORF,1,1,1,Month-to-Month,69.25,69.25,0,Female,73,0,Churned,Branscomb,176
+LWLV-AZRLV,21,21,7,Month-to-Month,86.05,1818.9,0,Female,40,0,Stayed,"Diamond Bar",46532
+HWND-BTGBT,2,2,0,Month-to-Month,70.75,154.85,0,Female,74,0,Churned,"Buena Park",44442
+MDZZ-MYVEO,52,52,3,Month-to-Month,85.8,4433.3,0,Female,61,1,Stayed,Yreka,9538
+KOUA-FHGFN,46,46,0,"One Year",110,4874.8,0,Female,65,0,Churned,Biola,807
+GZWK-DCDFH,40,40,0,"One Year",105.95,4335.2,0,Female,41,0,Stayed,Elverta,6197
+ERSS-ODTDY,23,23,0,Month-to-Month,54.15,1312.45,0,Male,64,1,Stayed,"North Hills",57017
+GOFU-RJDUL,4,4,0,Month-to-Month,85.65,338.9,0,Male,19,0,Churned,"Los Angeles",47487
+DASO-HGYAU,9,9,0,Month-to-Month,68.25,576.95,0,Male,45,0,Stayed,"Santa Barbara",25771
+JTOF-DFPSB,13,13,1,Month-to-Month,65.85,902.25,0,Male,56,0,Stayed,Milpitas,62848
+JGDG-XTYLE,34,34,0,Month-to-Month,65,2157.5,0,Female,32,0,Stayed,"West Hollywood",20408
+KLJA-OLBVB,9,9,0,Month-to-Month,74.55,622.9,33.25,Female,70,0,Churned,Stockton,49965
+GOHW-ZVIPI,12,12,0,Month-to-Month,61.65,713.75,0,Female,52,0,Churned,Norco,22443
+FTRO-BMTYX,7,7,0,Month-to-Month,100.4,715,0,Female,45,0,Stayed,"Half Moon Bay",17929
+LTLC-WMRXF,4,4,0,Month-to-Month,74.9,321.75,0,Female,68,0,Churned,Davis,67411
+JAHO-RNBCC,1,1,1,Month-to-Month,74.45,74.45,0,Female,73,0,Churned,Fallbrook,42239
+IZEV-GDBEB,45,45,0,"One Year",34.2,1596.6,0,Female,67,0,Stayed,"Dos Rios",91
+HPVD-UPLPF,69,69,0,"Two Year",97.65,6743.55,0,Male,41,0,Stayed,"Los Angeles",24505
+AKUI-DLIRV,9,9,0,Month-to-Month,79.9,741.7,0,Male,35,0,Churned,Yermo,1195
+BKIC-SAKSP,30,30,0,Month-to-Month,94.3,2679.7,0,Male,53,0,Stayed,"Redwood City",25569
+FMRO-VBALB,3,3,0,Month-to-Month,70.7,225.65,0,Male,44,1,Joined,Covina,33817
+JYFQ-VFKML,72,72,10,"Two Year",53.8,3952.45,0,Female,61,1,Stayed,"Mountain View",32143
+KTLR-RDLYY,72,72,1,"Two Year",99.15,7422.1,0,Male,52,0,Stayed,Fullerton,46105
+HXFR-TIXGE,4,4,2,Month-to-Month,50.05,179.35,0,Male,50,0,Churned,Fallbrook,42239
+IBWM-TGJTK,72,72,0,"Two Year",86.65,6224.8,0,Male,39,0,Stayed,Mecca,8768
+DDGI-SGNUL,2,2,0,Month-to-Month,25.05,56.35,0,Male,22,0,Churned,Kingsburg,14088
+BGDU-PQWZT,13,13,5,Month-to-Month,45.3,528.45,0,Female,68,0,Stayed,"Buena Park",33528
+MWAH-ZPAFU,7,7,0,Month-to-Month,20.75,141.1,0,Male,44,0,Stayed,Hyampom,268
+LOOF-OCUER,46,46,0,"One Year",33.7,1537.85,0,Male,35,0,Stayed,"Pauma Valley",2615
+HRLE-MNVMU,72,72,5,"Two Year",65.7,4575.35,0,Female,44,2,Stayed,"Carmel Valley",6691
+DOBG-YVTZF,9,9,0,Month-to-Month,34.7,296.1,0,Male,43,0,Churned,Anaheim,68802
+FCYJ-BZWJY,62,62,6,"One Year",23.75,1446.8,0,Male,26,0,Stayed,Newman,8504
+BXIF-SREJV,72,72,0,"Two Year",19.9,1529.65,0,Male,22,1,Stayed,Spreckels,407
+LLTM-YHWNT,16,16,0,Month-to-Month,39,679.85,0,Male,68,0,Churned,"San Diego",25232
+MXXU-ZFGQY,58,58,3,"One Year",19.55,1108.8,0,Male,54,0,Stayed,Tustin,55062
+AYPM-JFUDZ,4,4,0,Month-to-Month,80.15,319.85,0,Female,27,0,Stayed,"Los Angeles",73686
+KKQK-HLTMX,72,72,9,"Two Year",20.3,1401.15,0,Male,29,1,Stayed,Pasadena,16812
+KFQQ-OSEOV,67,67,1,"One Year",109.9,7332.4,0,Male,36,0,Stayed,"San Diego",73006
+IXXH-VQHUE,15,15,7,Month-to-Month,46.3,639.45,0,Female,24,3,Stayed,Grenada,616
+BHWB-YISJF,11,11,0,Month-to-Month,25.2,321.05,0,Female,49,1,Stayed,"Foothill Ranch",10936
+CGSG-ZMYOK,43,43,9,"One Year",24.45,993.15,41.33,Female,59,1,Stayed,"Palm Desert",19702
+IRUS-CCAEW,24,24,4,"One Year",78.4,1832.4,0,Female,54,0,Stayed,Chowchilla,19391
+NBXP-YSQGF,52,52,0,"One Year",74,3877.65,0,Female,31,0,Stayed,"Rohnert Park",42544
+HFBH-CMVSF,13,13,0,Month-to-Month,30.15,382.2,0,Female,50,2,Stayed,Alameda,13996
+GHEH-HRWOD,42,42,9,"Two Year",99,4135,0,Female,54,0,Stayed,"Morgan Hill",41707
+BSFP-CFHWS,17,17,1,Month-to-Month,66.7,1077.05,0,Male,48,3,Stayed,Lafayette,23996
+KLLJ-MSYTW,52,52,0,Month-to-Month,49.15,2550.9,0,Male,76,0,Churned,Temecula,46171
+HQTL-OKFNV,15,15,0,"One Year",20.1,302.45,0,Female,58,0,Stayed,Orange,15396
+JIVT-HSDUT,20,20,0,Month-to-Month,89.4,1871.15,0,Female,48,0,Stayed,Cutler,5519
+MFBB-NWFUR,71,71,9,"Two Year",19.8,1396.25,0,Male,52,2,Stayed,"San Jose",44103
+JWCR-HZGEU,24,24,0,"One Year",21.05,531.55,0,Female,55,0,Stayed,Alameda,58555
+JJKJ-ANEME,71,71,0,"Two Year",111.25,7984.15,0,Female,29,0,Stayed,"San Francisco",17372
+AJOU-QQPZA,66,66,9,"Two Year",89.9,5958.85,0,Female,31,0,Stayed,"Mission Viejo",46371
+IAFK-ZZMUK,47,47,0,"One Year",86.95,4138.9,0,Male,33,0,Stayed,"Newport Beach",4242
+BAXS-XJFZX,7,7,0,Month-to-Month,75.35,564.65,0,Female,63,0,Stayed,"Los Angeles",32901
+KODP-GZHHW,1,1,0,Month-to-Month,35.55,35.55,0,Male,38,0,Churned,Stockton,30814
+DVCJ-UWRCR,62,62,0,"Two Year",20,1250.1,0,Male,44,2,Stayed,"North Palm Springs",732
+HUUH-UIPQD,70,70,0,"Two Year",48.4,3442.8,0,Male,23,0,Stayed,"Shingle Springs",24738
+MNKZ-RQMXB,72,72,5,"Two Year",105.6,7581.5,0,Male,59,0,Stayed,"North Hollywood",45358
+LQBR-FCTIS,18,18,1,"One Year",20.05,345.9,0,Male,56,3,Stayed,Olivehurst,6439
+FDQL-KKVGR,68,68,6,"Two Year",103.75,7039.45,0,Female,32,3,Stayed,"San Francisco",26297
+MKTT-EGEII,64,64,1,"One Year",113.35,7222.75,0,Female,63,1,Stayed,Trinidad,2369
+HVSG-XPHRB,5,5,0,Month-to-Month,75.15,392.65,0,Male,51,0,Stayed,Sacramento,592
+DSRJ-FHBKC,20,20,5,Month-to-Month,82.4,1592.35,33.43,Female,26,1,Churned,Altadena,36243
+GPKI-CNKYH,13,13,1,Month-to-Month,102.25,1359,0,Male,36,0,Churned,"Sheep Ranch",88
+LXBK-CZDKB,10,10,0,Month-to-Month,84.6,865.55,0,Female,70,0,Churned,"San Luis Obispo",27047
+NADW-ZWPAX,5,5,0,Month-to-Month,85.4,425.9,0,Female,62,0,Churned,"Pine Grove",4354
+DLGT-EUTDY,54,54,0,"One Year",103.95,5639.05,0,Female,20,0,Churned,"San Diego",74232
+HOIJ-WRZWD,56,56,0,Month-to-Month,86.4,4922.4,0,Male,32,0,Stayed,Livermore,75929
+JTVY-IBCQN,27,27,1,Month-to-Month,101.25,2754.45,0,Female,72,0,Churned,"San Diego",47689
+MNXM-TFVUR,1,1,0,Month-to-Month,45.7,45.7,0,Male,57,0,Churned,Coalinga,18036
+HADW-NCLTT,53,53,1,"One Year",93.45,4872.2,0,Female,29,0,Stayed,Cressey,55
+LOQX-GBSRS,54,54,1,Month-to-Month,104.3,5278.15,11.45,Male,47,0,Churned,Burney,4552
+LAKK-RPIWO,23,23,0,"One Year",64.9,1509.8,0,Male,34,0,Stayed,"Imperial Beach",26662
+GFGS-ZEMBK,11,11,1,Month-to-Month,99.5,1056.95,0,Female,43,0,Churned,"Los Angeles",21739
+GGGM-AUWRW,34,34,8,Month-to-Month,100.85,3527.3,0,Male,21,0,Stayed,"Forks Of Salmon",170
+AZCP-QIIOJ,38,38,0,"One Year",20.1,730.1,0,Male,38,0,Stayed,Loomis,11191
+EMRP-BFUQK,69,69,2,"Two Year",20.2,1376.5,0,Male,29,1,Stayed,Redding,31586
+MMRS-OOZRA,72,72,4,"Two Year",115.15,8349.45,0,Male,29,0,Stayed,Monterey,32857
+DPQL-GKFDR,7,7,0,Month-to-Month,29.8,201.95,0,Female,33,2,Stayed,"Los Angeles",32901
+EIFN-SMCVL,61,61,1,"Two Year",80.8,4860.85,17.17,Male,53,0,Stayed,"Clearlake Oaks",3684
+EXBP-MSWDP,60,60,6,"Two Year",89.45,5294.6,0,Female,70,0,Stayed,Felton,8728
+FXFK-XHYVH,1,1,0,Month-to-Month,19.55,19.55,0,Male,42,3,Joined,Alta,751
+BNQK-NLVWF,7,7,0,Month-to-Month,74.65,544.55,0,Male,23,0,Churned,"San Jose",37570
+AKMA-IEZLD,4,4,3,"Two Year",29.9,118.25,0,Male,78,0,Stayed,"Los Molinos",3756
+ADCJ-UZYUN,13,13,0,Month-to-Month,80.5,1011.8,24.99,Female,22,0,Stayed,Brawley,23394
+HPRO-TDBQD,63,63,0,"Two Year",89.6,5538.8,0,Female,74,0,Stayed,Klamath,1215
+LMBA-JYKPO,36,36,0,"One Year",76.35,2606.35,0,Female,33,0,Stayed,Calpine,322
+NCEB-EFJZR,13,13,0,Month-to-Month,53.45,718.1,26.37,Female,40,1,Stayed,Chico,26971
+LKTJ-IKXMO,35,35,0,Month-to-Month,100.25,3527.6,0,Female,44,0,Churned,"Santa Ana",58157
+MLHX-PSLON,7,7,0,Month-to-Month,80.3,526.7,0,Female,21,0,Churned,"Woodland Hills",36123
+IOIO-URQZH,20,20,1,Month-to-Month,73.65,1463.5,0,Male,71,0,Churned,Jolon,254
+HSQO-KGFOV,13,13,0,Month-to-Month,98.15,1230.25,0,Male,46,0,Churned,"Mountain View",27822
+HGKQ-BSGPB,12,12,7,Month-to-Month,35.5,432.25,0,Male,19,3,Stayed,Clearlake,13485
+LPVW-WTRIH,13,13,0,"One Year",19.65,244.8,0,Female,61,0,Stayed,"Agoura Hills",25303
+JFMD-SZBEC,42,42,0,"One Year",99,4298.45,0,Male,28,0,Stayed,Covina,25068
+MJDK-ZEJVN,65,65,0,"Two Year",104.1,6700.05,0,Male,40,3,Stayed,"Pleasant Grove",901
+CXND-QBUXT,49,49,0,"One Year",109.2,5290.45,0,Male,35,3,Stayed,"Rancho Cordova",49729
+JSTG-VSBNR,32,32,0,Month-to-Month,96.2,3183.4,0,Male,45,0,Churned,Claremont,34716
+AWTU-WCJMS,11,11,8,"One Year",20,196.35,0,Female,37,1,Stayed,Hornitos,128
+IWJW-GVTLA,37,37,1,"One Year",19.8,677.05,29.21,Male,31,1,Stayed,"Woodland Hills",36123
+IPOK-DUAOB,69,69,10,"Two Year",24.25,1641.8,45.75,Female,57,0,Stayed,Soquel,9823
+IIZA-MEITS,72,72,6,"Two Year",70.65,5011.15,0,Female,59,0,Stayed,Castaic,22177
+LNXU-NKXLE,26,26,1,"One Year",90.1,2312.55,47.79,Female,46,0,Stayed,Glendale,9864
+BZSV-JSMGZ,3,3,0,Month-to-Month,29.2,98.5,0,Female,34,0,Joined,"Agoura Hills",25303
+CSER-XWWEM,69,69,2,Month-to-Month,99.45,7007.6,0,Male,30,0,Churned,"San Diego",34902
+KSVR-LVDHQ,26,26,4,"One Year",50.35,1285.8,0,Male,32,1,Stayed,Fiddletown,850
+HRCN-PAOBR,72,72,5,"Two Year",80.85,5824.75,0,Female,40,2,Stayed,Forbestown,452
+DEQE-XOQWN,3,3,0,Month-to-Month,54.2,140.4,0,Female,50,0,Joined,Wilseyville,435
+BVDK-KSARZ,18,18,0,Month-to-Month,49.4,874.8,0,Male,31,0,Churned,Corona,13188
+JYIE-ZHJDA,68,68,2,"One Year",60.65,3975.9,0,Female,78,0,Stayed,"Junction City",734
+HYQT-WXXBI,7,7,0,Month-to-Month,20,137.6,0,Female,27,0,Churned,"Port Hueneme",25634
+EXEA-ZXPVL,1,1,0,Month-to-Month,19.05,19.05,0,Male,46,0,Joined,Lawndale,33300
+HRRH-MXCMD,62,62,8,"One Year",106.05,6703.5,0,Female,47,2,Stayed,Acampo,6317
+BDTL-BZSAD,56,56,1,Month-to-Month,90.55,5116.6,0,Female,63,0,Stayed,Angwin,3641
+EGRB-BBIZC,1,1,4,Month-to-Month,24.8,24.8,0,Female,29,0,Churned,Glendale,9864
+FNBE-THHAN,38,38,0,"One Year",89.1,3342,0,Female,63,0,Stayed,"San Diego",27505
+EPQO-GWJDV,72,72,3,"Two Year",80.45,5886.85,0,Female,35,3,Stayed,Plymouth,2220
+NAVP-UTWAF,1,1,0,Month-to-Month,19.55,19.55,0,Male,27,0,Churned,"San Diego",47224
+FCFL-GYAXO,68,68,8,"One Year",78.45,5333.35,0,Female,57,3,Stayed,Fresno,31180
+HRMS-UYJPX,63,63,2,Month-to-Month,103.5,6479.4,0,Female,77,0,Stayed,"Parker Dam",131
+JJUM-WJGKM,19,19,6,Month-to-Month,20.6,414.95,0,Male,43,2,Stayed,Zenia,259
+DMEM-FVFIO,12,12,1,"One Year",19.8,229.6,0,Female,59,0,Churned,Fresno,36274
+GORV-OEZVF,71,71,0,"Two Year",113.15,7993.3,0,Female,25,0,Stayed,Sacramento,592
+FEMB-LHJJU,56,56,1,"Two Year",25.15,1327.15,0,Male,19,0,Churned,Hayward,72993
+IKLA-DDPKG,8,8,5,Month-to-Month,21.05,139.75,0,Female,54,3,Stayed,"San Jose",31926
+KURL-WUYPW,43,43,0,"Two Year",19.55,876.15,15.17,Male,57,0,Stayed,Glendale,16910
+BGTL-UTPCW,44,44,1,Month-to-Month,19.6,780.25,0,Female,21,2,Stayed,Stanford,13386
+GCRB-JUZOL,72,72,1,"Two Year",108.65,7726.35,0,Female,63,1,Stayed,"North Hollywood",16996
+HOHF-IUUYN,67,67,3,"One Year",105.4,7035.6,0,Female,70,0,Stayed,"Los Angeles",30568
+ENNP-XYDKE,56,56,5,Month-to-Month,109.6,5953,0,Female,36,2,Stayed,Encinitas,47126
+GMEB-ZTUWT,1,1,0,Month-to-Month,69.9,69.9,0,Male,49,0,Churned,"San Diego",4258
+CCPJ-BGKJQ,69,69,2,"Two Year",92.15,6480.9,0,Male,56,3,Stayed,Whittier,37887
+IDBG-KZZWF,1,1,0,Month-to-Month,20.15,20.15,0,Male,29,0,Churned,"Los Angeles",44150
+DUFC-VOPKQ,25,25,0,"One Year",19.9,505.45,0,Male,47,1,Stayed,Hayward,60274
+JPBA-JLVPQ,55,55,1,"Two Year",25.7,1443.65,0,Male,54,0,Stayed,Bakersfield,44915
+JHVP-UOTVB,59,59,6,"One Year",20.35,1267,0,Female,29,0,Stayed,"Los Angeles",3012
+FPVK-BFBER,16,16,1,Month-to-Month,98.75,1587.55,0,Male,69,0,Churned,Rosemead,61623
+AVGO-DCVES,3,3,7,Month-to-Month,30.75,82.85,0,Female,75,0,Joined,"Agoura Hills",25303
+ILVI-ABIUJ,64,64,0,"Two Year",25.65,1740.8,0,Male,76,0,Stayed,Irvine,6301
+FIRP-MNGRK,1,1,0,Month-to-Month,69.75,69.75,0,Male,35,0,Churned,"Angelus Oaks",301
+GXHK-APFXW,3,3,0,Month-to-Month,19.6,59.75,0,Female,38,0,Churned,Concord,36186
+LMEZ-YMVVH,11,11,0,"Two Year",54.55,601.25,0,Male,72,1,Stayed,Bridgeport,826
+MFIX-RIXWV,24,24,5,"Two Year",19.7,494.05,0,Female,43,3,Stayed,"Lee Vining",504
+HMBL-XVFWA,72,72,8,"Two Year",105.5,7611.55,0,Male,47,0,Stayed,Fawnskin,414
+AZEI-TPCKG,56,56,1,"One Year",99.8,5515.45,0,Female,27,0,Stayed,"La Palma",15505
+MORM-VZSPZ,17,17,0,Month-to-Month,76.65,1313.55,0,Male,62,0,Churned,Magalia,11168
+BSXW-LKEEP,18,18,2,"Two Year",25.1,428.45,14.57,Female,33,1,Stayed,"French Gulch",373
+NCPQ-HYDTP,45,45,10,"One Year",51,2264.5,0,Female,52,2,Stayed,Coleville,1332
+BUFI-JYCNR,47,47,0,Month-to-Month,95.05,4504.55,0,Female,78,0,Churned,Woodbridge,4176
+IOQB-WZKCA,42,42,0,Month-to-Month,54.55,2455.05,0,Female,42,0,Stayed,Pioneertown,354
+KTOF-SKIVD,55,55,8,"Two Year",19.4,1083,0,Female,24,2,Stayed,Encino,27614
+ENRL-KQYYB,68,68,8,"One Year",54.4,3723.65,25.62,Female,58,0,Stayed,"Mission Viejo",46227
+EVRB-CYLIM,1,1,9,"Two Year",20.35,20.35,0,Female,62,3,Joined,Berkeley,10147
+CPCG-PQQSG,28,28,2,Month-to-Month,64.4,1802.15,0,Male,52,2,Stayed,Richgrove,2956
+ILLZ-NWRQC,40,40,9,"Two Year",19.6,808.95,0,Male,21,1,Stayed,Oakley,27607
+AYTJ-PGIRY,63,63,0,Month-to-Month,108.25,6780.1,0,Female,46,0,Stayed,Campbell,44976
+HMMZ-PSOIF,14,14,3,"One Year",105.95,1348.9,0,Female,59,0,Churned,Winnetka,43857
+CDKV-GMKNB,54,54,0,Month-to-Month,55,3092.65,0,Male,43,2,Churned,"San Jacinto",4456
+IDCT-TJCDR,16,16,0,Month-to-Month,53.9,834.15,0,Female,36,0,Churned,"Los Angeles",8115
+DOYG-MYWSU,69,69,7,"One Year",53.65,3804.4,0,Male,36,0,Stayed,"Los Angeles",46960
+AYIV-MIGQO,49,49,0,"Two Year",43.8,2106.05,20.45,Female,78,0,Stayed,"Los Angeles",9805
+JUCM-ZBBPH,24,24,0,"One Year",24.6,605.25,0,Female,58,0,Stayed,"San Lorenzo",26240
+AKJX-SJSCD,18,18,0,"One Year",20.1,407.05,0,Female,38,0,Stayed,Palmdale,25370
+CMFV-MLARS,27,27,1,Month-to-Month,53.8,1389.85,0,Male,32,0,Stayed,Fresno,21010
+FYSQ-TTAID,57,57,0,"Two Year",53.35,3090.05,0,Male,33,0,Stayed,Vallecito,460
+DTHN-JSVJX,2,2,0,Month-to-Month,85.7,169.8,0,Female,39,0,Churned,"Boulder Creek",10520
+DRKQ-EJKOS,60,60,1,"One Year",94.15,5811.8,0,Female,35,3,Stayed,"Oregon House",1519
+BMRJ-GGAGD,33,33,0,"One Year",39.1,1309,0,Male,62,0,Stayed,"Santa Ana",62634
+NAWT-IESTQ,16,16,3,Month-to-Month,20.4,321.4,0,Female,59,2,Stayed,"South Pasadena",23984
+FHWI-RUNKG,41,41,4,Month-to-Month,74.55,3023.55,0,Male,61,2,Stayed,Shoshone,87
+AXAL-YHRBL,47,47,1,Month-to-Month,25.4,1139.2,0,Male,20,0,Stayed,"Los Angeles",1957
+KLCM-BLBJJ,53,53,9,"Two Year",69.7,3686.05,0,Male,54,3,Stayed,"Cathedral City",43141
+IQUO-CJPLU,11,11,0,Month-to-Month,89.2,990.3,0,Female,60,0,Stayed,Torrance,40705
+BRJS-JJSHN,53,53,1,"One Year",64.15,3491.55,0,Male,35,2,Stayed,Palermo,1254
+GEER-JDVFM,3,3,0,"One Year",19.45,69.25,0,Male,33,0,Joined,"Santa Clara",36349
+AOFG-EHHQC,38,38,0,Month-to-Month,83.9,3233.6,0,Female,26,0,Churned,"Happy Camp",1294
+HITZ-FCHKY,4,4,0,"Two Year",74.45,294.45,0,Female,65,0,Stayed,Friant,1125
+NFPN-NSAYD,8,8,0,"Two Year",85.2,695.75,0,Female,70,0,Stayed,Posey,266
+LZUR-TDIFT,56,56,9,"Two Year",80.3,4513.65,0,Female,56,0,Stayed,Rodeo,8506
+MPVR-VEDPR,52,52,1,"Two Year",23.05,1255.1,0,Female,42,2,Stayed,"Redwood City",35737
+CJNJ-VZJZF,3,3,0,Month-to-Month,86.05,244.85,0,Male,54,0,Joined,"San Joaquin",4318
+JFJN-HBGKI,4,4,0,Month-to-Month,48.25,202.25,0,Female,19,0,Stayed,Groveland,3680
+EZAI-QEXLJ,45,45,0,Month-to-Month,108.45,4964.7,0,Male,30,0,Stayed,Imperial,14546
+DBSL-DBBEF,25,25,4,Month-to-Month,75.5,1901.05,0,Male,51,3,Stayed,"San Miguel",2666
+DVVU-UFILC,12,12,1,Month-to-Month,19,233.55,0,Female,48,0,Churned,Anaheim,68802
+IZBO-TESQA,9,9,0,Month-to-Month,76.85,663.55,0,Female,51,0,Stayed,"Los Angeles",15140
+CSUS-DXBPX,40,40,2,Month-to-Month,20.4,745.3,0,Male,61,1,Stayed,"Palos Verdes Peninsula",24979
+BENL-FXCOY,20,20,4,"Two Year",20.05,400,0,Male,55,1,Stayed,Wendel,162
+GCYC-PHXTN,50,50,0,Month-to-Month,105.95,5341.8,0,Male,37,0,Churned,"Los Angeles",45025
+KBSV-UEPYH,21,21,0,Month-to-Month,75.3,1570.7,0,Male,25,0,Stayed,Farmington,596
+FXYQ-LZGLI,1,1,0,Month-to-Month,20.1,20.1,0,Male,63,0,Churned,"San Diego",20046
+AXFR-QWPFD,52,52,0,"Two Year",19.65,1025.05,0,Male,31,0,Stayed,"Seal Beach",24180
+LUCY-JRWIB,14,14,0,"Two Year",20.4,292.4,0,Female,46,0,Stayed,Janesville,3093
+HBEB-ADGTP,43,43,1,Month-to-Month,50.2,2169.4,0,Female,41,2,Stayed,"Santa Margarita",2687
+LLIB-OUMJB,4,4,0,"One Year",80.25,303.7,0,Female,66,0,Stayed,Glenhaven,175
+FDRF-WMQBG,27,27,0,"One Year",110.5,2857.6,0,Female,70,0,Stayed,Montara,2346
+MUFD-PBWYR,23,23,0,Month-to-Month,34.65,768.45,0,Male,78,0,Stayed,"Los Angeles",2527
+FYGJ-VHWYA,55,55,0,Month-to-Month,96.8,5283.95,0,Male,40,0,Churned,"La Grange",1749
+HIXY-PIAEZ,59,59,3,"One Year",66.4,3958.2,0,Male,49,0,Stayed,Winnetka,43857
+HRAO-UMFLE,68,68,5,"One Year",96.55,6581.9,0,Female,68,0,Churned,Madera,49247
+LBYW-VZDCT,16,16,1,Month-to-Month,85.35,1375.15,0,Female,66,0,Churned,"Huntington Park",78114
+ISVQ-QJRWV,44,44,2,"One Year",20,860.85,0,Male,23,3,Stayed,Phillipsville,163
+CBNK-OQALZ,30,30,1,"Two Year",19.7,599.25,49.79,Female,24,1,Stayed,"San Diego",34902
+HYYO-YBBEB,12,12,0,Month-to-Month,43.65,526.95,0,Male,77,0,Churned,"Forest Knolls",1025
+IFIG-KGXSH,39,39,0,"Two Year",53.85,2200.7,46.66,Male,60,0,Stayed,"San Jose",31926
+EBGF-XTEFL,15,15,1,"One Year",19.65,332.65,0,Male,48,3,Stayed,"La Habra",67354
+IWAZ-LAMDR,72,72,7,"Two Year",110.6,7962.2,0,Male,55,0,Stayed,Yorkville,335
+GGVS-BUEWS,68,68,0,"One Year",107.15,7379.8,0,Male,80,1,Stayed,"Foothill Ranch",10936
+GGEI-KJYOA,29,29,6,"One Year",55.35,1636.95,0,Male,62,3,Stayed,"North Hollywood",57146
+JAFJ-SXGTM,20,20,0,"Two Year",89.95,1648.45,0,Male,70,0,Stayed,"Ladera Ranch",350
+KZJB-QKFPE,55,55,3,"Two Year",69.05,3842.6,0,Female,52,2,Stayed,"Rio Dell",3284
+GLJX-AMCPE,9,9,2,Month-to-Month,70.05,564.4,0,Male,24,0,Stayed,Redlands,36675
+LBME-EABSD,2,2,0,Month-to-Month,78.55,149.55,0,Female,69,0,Churned,Somis,2966
+KSNT-LYZOP,49,49,0,"Two Year",20.45,1024.65,0,Female,60,3,Stayed,"Mc Farland",10781
+CLRT-OJTLO,24,24,0,Month-to-Month,89.55,2187.15,0,Male,21,0,Stayed,"Santa Clara",13031
+JEZJ-NSBPV,42,42,0,"One Year",79.35,3344.1,0,Male,66,0,Stayed,"Santa Ynez",5710
+KGFB-WMRTH,52,52,1,"One Year",80.85,4079.55,0,Male,72,1,Stayed,"Pinon Hills",4280
+AEKV-YJJYC,52,52,0,"Two Year",110.75,5832,6.26,Male,75,0,Stayed,Inglewood,37527
+HGHZ-VWJSN,15,15,0,Month-to-Month,55,757.1,0,Female,73,0,Churned,Emeryville,24589
+JVFY-XHBVM,1,1,0,Month-to-Month,24.25,24.25,0,Male,64,0,Churned,"Sequoia National Park",56
+IKQG-VIOUW,72,72,6,"One Year",101.35,7323.15,0,Female,49,0,Stayed,"Los Angeles",87383
+FLPO-GBEPH,55,55,5,"Two Year",55.25,3119.9,0,Male,24,1,Stayed,Shoshone,87
+CHYO-ZXIBW,9,9,0,Month-to-Month,24.95,190.25,0,Male,61,0,Stayed,Pacoima,97318
+IERF-UJURE,18,18,2,"One Year",46.4,812.4,0,Male,25,2,Stayed,Canby,417
+GXTQ-UPTJT,10,10,0,Month-to-Month,86.05,834.1,0,Male,33,0,Churned,"Lake Forest",59176
+AJTG-RGRBN,61,61,1,Month-to-Month,94.15,5731.85,0,Male,63,0,Stayed,Corona,16998
+NBIS-YYEJI,13,13,0,Month-to-Month,80,1029.35,0,Female,59,0,Stayed,Woodbridge,4176
+HMBE-PCNPS,1,1,0,Month-to-Month,20.05,20.05,0,Male,57,0,Churned,Glendale,9864
+MJND-SRZTQ,22,22,10,"One Year",59.75,1374.35,0,Male,22,0,Stayed,"San Diego",56887
+NDSO-QCGXE,50,50,10,"One Year",98.25,4858.7,3.55,Male,46,0,Stayed,"Mission Viejo",46371
+GMJQ-NYZGU,54,54,1,"One Year",99.1,5437.1,0,Female,68,0,Stayed,"South Gate",96267
+BXGA-ITGTM,23,23,2,Month-to-Month,30.35,678.75,0,Male,45,1,Stayed,"Forest Knolls",1025
+LSRP-BXYKT,46,46,0,"One Year",94.15,4408.45,0,Female,55,0,Stayed,"Beverly Hills",8321
+NBBB-ACNJV,10,10,2,"Two Year",56.05,560.5,0,Female,64,0,Stayed,Redcrest,400
+EWLD-FLGLD,40,40,8,"One Year",55.8,2283.3,0,Male,71,0,Stayed,Chowchilla,19391
+MWUP-JDDXR,4,4,0,Month-to-Month,94.3,424.45,0,Female,65,0,Churned,"San Ramon",44078
+LMTG-VMMBM,7,7,0,Month-to-Month,20.05,164.85,0,Female,62,0,Churned,"Long Beach",35656
+GHBL-ULPFV,9,9,0,Month-to-Month,20.45,147.55,0,Female,32,0,Stayed,Branscomb,176
+KVBK-TZGWI,7,7,0,Month-to-Month,18.95,130.55,0,Male,42,0,Stayed,Glenhaven,175
+LFLA-QHWCQ,3,3,0,Month-to-Month,91.05,289.1,0,Male,65,0,Churned,Downey,42459
+FQCQ-HOGNS,20,20,7,"One Year",76,1588.75,7.3,Female,21,3,Stayed,"San Diego",68776
+KYTR-DFISL,44,44,4,"Two Year",85.15,3670.5,0,Female,70,0,Stayed,"Mount Shasta",7309
+CLPP-CWWUO,43,43,5,Month-to-Month,29.3,1224.05,0,Male,44,3,Stayed,"Los Angeles",2527
+ISTV-XHVON,21,21,1,Month-to-Month,74.05,1565.7,0,Female,32,0,Churned,"Rancho Santa Margarita",42193
+AOXX-EUBFJ,7,7,0,"One Year",35.3,264.8,0,Male,47,0,Stayed,"San Jose",52334
+KDDZ-DWZXT,57,57,3,"Two Year",19.75,1272.05,0,Female,43,2,Stayed,Bellflower,72893
+CKFJ-EFSXK,11,11,0,Month-to-Month,69.35,712.25,0,Male,35,0,Stayed,Orange,40915
+KNZS-TBRCG,57,57,2,"Two Year",107.95,5969.85,0,Male,31,0,Stayed,Oakdale,25384
+LMQG-LDCYT,18,18,7,"One Year",61.5,1087.45,0,Female,22,2,Stayed,"Elk Grove",38534
+ADZJ-IEPGE,1,1,0,Month-to-Month,89.3,89.3,0,Female,68,0,Churned,"Shaver Lake",642
+FFTI-EYPQC,30,30,6,Month-to-Month,105.7,3181.8,0,Male,75,0,Stayed,Lakeshore,52
+IFEA-CBKOE,32,32,4,"One Year",79.25,2619.15,16.96,Male,64,0,Stayed,Sacramento,9063
+BMQT-SJKFP,52,52,0,"Two Year",109.3,5731.4,3.85,Male,54,0,Stayed,Sacramento,16164
+DGDS-CDGBJ,26,26,10,"One Year",19.2,459.6,0,Female,42,0,Stayed,"Los Angeles",27799
+FXUK-OBQEG,1,1,1,Month-to-Month,80,80,0,Male,48,0,Churned,Shafter,15177
+DRRL-JQUPT,10,10,0,Month-to-Month,98.5,1058.25,0,Female,33,0,Churned,Friant,1125
+HMCF-MTGPF,22,22,0,Month-to-Month,89.1,1949.4,0,Male,42,3,Stayed,"Los Angeles",45025
+MFTG-HOHAJ,72,72,9,"Two Year",106.1,7548.6,23.39,Male,31,1,Stayed,Guerneville,4913
+GBVO-HHJXG,1,1,0,Month-to-Month,75.1,75.1,0,Male,61,0,Joined,Hinkley,1933
+AYHI-XUYMV,1,1,0,Month-to-Month,49.9,49.9,0,Female,39,3,Joined,"Cantua Creek",1766
+MIJF-MADRU,4,4,0,Month-to-Month,49.25,208.45,0,Male,34,0,Stayed,Bakersfield,58632
+FIHL-NCHIZ,64,64,9,"Two Year",24.4,1548.65,0,Male,69,1,Stayed,"San Jose",13481
+MLCY-JCJRL,1,1,0,Month-to-Month,49.95,49.95,0,Female,37,0,Joined,Niland,2753
+FZFQ-BHIBF,36,36,0,Month-to-Month,94.7,3512.5,0,Male,55,1,Stayed,"El Sobrante",25399
+IURC-TXSBO,58,58,8,"One Year",68.4,3972.25,0,Female,24,0,Stayed,Lynwood,69850
+LHIK-GIGJR,1,1,0,Month-to-Month,43.8,43.8,0,Female,39,0,Joined,Calpine,322
+ALUP-YAIDG,72,72,5,"Two Year",116.05,8404.9,0,Male,75,0,Stayed,Mentone,7324
+IGTJ-JXCFB,35,35,2,"One Year",81.6,2815.25,0,Male,76,0,Stayed,Montara,2346
+FPHO-NMBLB,28,28,0,Month-to-Month,94.5,2659.4,0,Male,52,0,Churned,Klamath,1215
+NDDC-NPLQF,30,30,0,Month-to-Month,100.4,2936.25,0,Male,45,0,Stayed,Freedom,4753
+MLZL-JRXTU,31,31,10,Month-to-Month,20.65,702.05,43.76,Male,31,1,Stayed,Arcadia,30933
+HYQE-UICAB,1,1,0,Month-to-Month,20.2,20.2,0,Male,28,0,Churned,Ivanhoe,4517
+FEGM-IGITR,10,10,1,"Two Year",20.15,220.8,0,Female,51,3,Stayed,Nice,2223
+NCFH-IFJSV,29,29,0,Month-to-Month,19.85,573.05,0,Female,46,0,Stayed,Westwood,4158
+DVKC-GJXCU,2,2,0,Month-to-Month,45.85,81,0,Male,34,0,Churned,Guatay,796
+BJUF-AJZJT,45,45,9,"Two Year",73.85,3371,0,Male,21,1,Stayed,Oakley,27607
+DEYV-ERVJL,12,12,0,Month-to-Month,89.4,1095.65,0,Female,36,0,Churned,"Los Angeles",56709
+FLIN-RPMVD,33,33,6,Month-to-Month,44.55,1462.6,0,Male,23,0,Stayed,"Rohnert Park",42544
+KKWZ-COOYG,61,61,2,"One Year",49.7,2961.4,0,Female,34,2,Stayed,Atherton,6876
+DKDH-ULDBZ,24,24,0,"Two Year",25.15,553,0,Female,19,0,Stayed,Thornton,1472
+KFJL-IKRNN,1,1,0,Month-to-Month,62.05,62.05,0,Male,58,0,Churned,Wheatland,3600
+GWAA-FLWMB,71,71,5,"Two Year",99,6994.6,0,Male,50,0,Stayed,"San Diego",46828
+GZMM-YZUHI,4,4,9,Month-to-Month,58.5,224.85,0,Female,28,3,Stayed,"Cedar Glen",455
+KMNN-GQCEQ,61,61,6,Month-to-Month,106.2,6375.2,0,Male,40,0,Stayed,Weed,5896
+EFKO-KUXWS,32,32,1,Month-to-Month,84.15,2585.95,0,Female,53,0,Churned,Orangevale,32040
+LELU-MOSAG,30,30,0,Month-to-Month,106.4,3211.9,0,Female,22,0,Stayed,Visalia,44741
+EOEC-ENVQW,55,55,4,Month-to-Month,20,1087.25,0,Female,31,1,Stayed,Descanso,1587
+GYXX-AIWMC,43,43,0,"Two Year",115.05,4895.1,10.76,Female,25,0,Stayed,Tecate,91
+MQJY-XRRHR,12,12,0,Month-to-Month,19.7,220.35,0,Female,43,0,Stayed,"Chula Vista",12884
+KJJG-XGQUY,4,4,0,Month-to-Month,63.75,226.2,0,Male,53,0,Stayed,Modesto,27135
+FYUE-HDEQJ,13,13,0,Month-to-Month,82,1127.2,0,Female,79,0,Churned,"San Marcos",6760
+AGXX-KUFPK,4,4,0,Month-to-Month,84.05,333.55,0,Female,21,0,Churned,"Palo Cedro",4931
+GRUN-VEMNX,70,70,7,"Two Year",90.05,6333.4,0,Male,65,0,Stayed,"Baldwin Park",76890
+DRER-NWSIJ,68,68,4,"Two Year",92.2,6392.85,0,Male,39,0,Stayed,"Harbor City",24660
+JJEN-JSBEZ,5,5,1,Month-to-Month,78.75,412.1,0,Male,55,0,Churned,Richmond,13984
+DRNP-EZSFH,12,12,0,Month-to-Month,99.95,1132.75,0,Male,20,0,Churned,"Meadow Vista",3747
+GQDA-BMBDR,57,57,1,"One Year",97.55,5598,0,Male,26,3,Stayed,Soledad,13003
+EVHZ-JYYEQ,4,4,0,Month-to-Month,55.2,220.65,0,Female,64,0,Stayed,Murphys,4353
+IBGO-ZTKJR,30,30,1,Month-to-Month,19.65,655.85,0,Female,42,0,Churned,"Elk Grove",38534
+JZJQ-MZUGM,66,66,1,Month-to-Month,99.5,6822.15,0,Male,79,0,Churned,"Santa Barbara",31727
+GEEF-WIEVM,3,3,0,Month-to-Month,45.35,141.5,0,Male,26,0,Churned,"San Diego",47224
+FUBK-APKDY,51,51,7,"One Year",93.65,4839.15,0,Male,76,0,Stayed,"Long Beach",43467
+DFRX-IOWIW,60,60,1,"One Year",23.95,1506.4,0,Male,37,2,Stayed,"Gold Run",407
+BBVR-TUZSR,62,62,1,"One Year",81.45,4983.05,14.15,Male,27,3,Stayed,Forestville,6216
+ACDG-SFELI,12,12,0,Month-to-Month,45,524.35,0,Female,47,0,Stayed,Richvale,74
+EDIV-KSDJL,4,4,0,Month-to-Month,75.35,338.1,0,Female,42,0,Churned,Whittier,26265
+GSDV-CCERJ,1,1,0,Month-to-Month,45.15,45.15,0,Female,29,0,Churned,Pacoima,97318
+LOTP-VWYIZ,8,8,0,Month-to-Month,20.7,137.6,0,Female,59,0,Stayed,Georgetown,2723
+ECKN-ONAFD,2,2,0,Month-to-Month,75.9,143.35,0,Female,30,0,Churned,Riverbank,16525
+FDQY-SDPMT,36,36,4,"Two Year",106.05,3834.4,0,Female,54,0,Stayed,Sacramento,72199
+FUFD-SYMIH,1,1,0,Month-to-Month,19.55,19.55,0,Female,44,0,Joined,Biggs,3169
+NCAI-GSBAF,5,5,0,Month-to-Month,89.8,502.6,0,Male,75,0,Churned,"North Hollywood",57146
+EZEX-QGPTP,10,10,0,Month-to-Month,84.7,832.05,12.81,Female,40,0,Churned,Nicasio,607
+JSGI-TRKGP,68,68,1,"One Year",83,5685.8,0,Female,42,0,Churned,Torrance,34873
+IUET-LPZRE,20,20,7,Month-to-Month,94.55,1899.65,0,Male,75,0,Churned,"Camp Nelson",191
+FVEF-AJPLC,71,71,3,"Two Year",25.45,1789.65,0,Male,80,0,Stayed,Alameda,58555
+BRJR-OZYPM,4,4,0,"Two Year",50.95,207.35,0,Male,72,0,Stayed,"Valley Village",27453
+ICMN-RJZHX,6,6,0,Month-to-Month,20.2,98.35,0,Male,38,2,Stayed,Stockton,34138
+EXKZ-RUIKP,68,68,10,"Two Year",91.7,6424.7,0,Female,45,0,Stayed,Topanga,5451
+CUBU-EIYOF,63,63,0,Month-to-Month,109.85,7002.95,0,Female,40,0,Stayed,Chico,26971
+MTLN-NDCBB,59,59,3,Month-to-Month,88.75,5348.65,0,Female,75,1,Stayed,Modesto,13343
+KVUB-HARSO,72,72,0,"Two Year",75.1,5336.35,0,Male,32,0,Stayed,"North Hollywood",45358
+GNCS-LPOVT,70,70,4,"One Year",108.15,7930.55,0,Female,27,0,Stayed,"Long Beach",91664
+FJLO-CDSFG,12,12,10,"One Year",19.8,202.25,0,Male,45,0,Stayed,"Los Angeles",47487
+JOGB-HGFZB,40,40,0,Month-to-Month,93.4,3756.4,4.18,Female,54,0,Stayed,"La Quinta",23971
+GXSX-KBLNS,11,11,0,Month-to-Month,45.2,492,0,Male,44,0,Stayed,Salinas,22292
+BZNF-UVPAW,42,42,0,"One Year",19.8,849.9,0,Male,55,0,Stayed,Creston,1203
+AMCQ-AXZBK,71,71,6,"One Year",95.65,6856.95,0,Female,53,0,Stayed,Riverside,42425
+JNTY-BDXFO,60,60,0,"Two Year",61.4,3638.25,0,Male,24,0,Stayed,"Big Oak Flat",167
+KQJV-WHDIR,9,9,0,Month-to-Month,80.85,751.65,0,Female,79,0,Churned,"Point Reyes Station",1885
+LKOV-OMLYU,46,46,0,"One Year",91.3,4126.35,0,Female,65,0,Stayed,"Santa Barbara",20893
+AIET-SRNXM,47,47,10,"Two Year",19.75,948.9,0,Female,33,3,Stayed,"San Francisco",40137
+DIPL-IJWZL,45,45,1,"Two Year",54.65,2553.7,0,Male,21,1,Stayed,"Santa Ana",58157
+KLRC-VPOLU,53,53,1,"One Year",20.2,1068.15,0,Male,38,3,Stayed,Sanger,28991
+NDPE-FZJWQ,42,42,0,Month-to-Month,101.75,4273.45,0,Male,64,0,Churned,"San Diego",25569
+LWDN-BGDFQ,2,2,0,Month-to-Month,44.45,82.7,0,Female,22,0,Joined,Penryn,2048
+KKPB-JJRSG,11,11,1,"Two Year",25,300.7,0,Female,50,2,Stayed,Eureka,23224
+BMGF-BFOPI,1,1,0,Month-to-Month,35.25,35.25,0,Male,53,0,Churned,Oakhurst,8521
+LHKK-PLZHM,56,56,8,"Two Year",115.85,6567.9,0,Male,42,3,Stayed,Westport,309
+NDPW-TNDKS,34,34,5,Month-to-Month,24.7,780.2,0,Female,49,0,Stayed,Pasadena,10253
+MGLO-FBIWZ,1,1,1,Month-to-Month,75.35,75.35,0,Male,32,0,Joined,Whittier,37887
+LXJP-WCJAM,9,9,0,Month-to-Month,55.35,449.75,0,Male,40,3,Churned,"Imperial Beach",26662
+IVNA-OTXTE,46,46,6,"One Year",98.85,4564.9,0,Male,74,0,Stayed,Castroville,8582
+EPIY-PBBWR,60,60,6,"One Year",59.8,3561.15,0,Male,39,0,Stayed,Lockwood,538
+GINW-WJQMS,39,39,0,"One Year",19.9,791.15,20.17,Male,26,0,Stayed,Ventura,32899
+DGEJ-YASKH,2,2,5,Month-to-Month,20.3,40.25,0,Male,37,2,Joined,"San Dimas",33878
+FCFE-TVEKR,35,35,4,"One Year",20.05,746.75,0,Male,24,1,Stayed,"Huntington Beach",32304
+HGFB-OAEZW,1,1,0,Month-to-Month,79.55,79.55,0,Male,59,0,Churned,Guinda,228
+AZYM-MYEHP,18,18,0,"One Year",20.35,369.6,0,Female,77,0,Stayed,"Junction City",734
+KPEX-GTTVI,66,66,0,"Two Year",19.95,1269.1,0,Male,63,1,Stayed,Spreckels,407
+GVAT-GIKAC,8,8,0,Month-to-Month,45.45,411.75,0,Female,30,2,Stayed,"Dana Point",27730
+NENG-KKLEO,1,1,0,Month-to-Month,25.2,25.2,0,Female,74,0,Churned,"Rio Dell",3284
+MSWQ-LGOQU,29,29,1,Month-to-Month,95.9,2745.2,0,Male,70,0,Churned,"Pauma Valley",2615
+JMMJ-ABXTD,2,2,0,Month-to-Month,24.3,38.45,0,Male,19,0,Joined,Colfax,8525
+KMMP-JFXNX,72,72,1,"Two Year",114.65,8333.95,0,Female,73,0,Stayed,"San Jose",7023
+IWRM-OUNAL,10,10,0,Month-to-Month,20.55,187.35,0,Female,63,0,Stayed,Vacaville,32564
+MJSQ-ZGTFO,13,13,0,"Two Year",20.4,261.3,0,Female,23,0,Stayed,Concord,27394
+MPTG-SEUTN,2,2,0,Month-to-Month,61.2,125.95,0,Female,28,2,Joined,"El Dorado",4097
+DIAK-ADTRY,17,17,0,Month-to-Month,89.15,1496.9,0,Female,80,0,Churned,"San Jose",18197
+CVGZ-MVONX,1,1,0,Month-to-Month,48.6,48.6,0,Female,22,0,Churned,Corcoran,23506
+LHJO-SZEDX,2,2,0,Month-to-Month,19.95,38.15,0,Female,33,0,Joined,Fiddletown,850
+BGND-YHBUX,12,12,0,Month-to-Month,54.3,654.5,0,Female,59,0,Stayed,"Santa Monica",11509
+CMLH-VVESZ,30,30,4,Month-to-Month,67.6,2000.2,0,Male,31,1,Stayed,"San Jose",561
+MUUF-DUPWT,64,64,7,"One Year",19.8,1336.65,0,Female,47,0,Stayed,Orange,23172
+MYBI-AIMUM,72,72,4,"Two Year",80.45,5737.6,0,Female,59,0,Stayed,Shandon,1255
+DPME-WHQCG,5,5,0,Month-to-Month,25.45,134.75,0,Female,63,0,Stayed,"Loma Linda",18068
+JCXT-UXKIJ,27,27,0,Month-to-Month,89.2,2383.6,0,Female,31,0,Stayed,"San Joaquin",4318
+ABBQ-EXMMW,72,72,4,"Two Year",24.05,1709.15,0,Female,59,3,Stayed,Orick,494
+MUGM-AESYU,30,30,0,"Two Year",55.65,1653.85,0,Male,35,0,Stayed,Valyermo,413
+KPVP-ESLOT,61,61,6,"Two Year",19.75,1311.6,0,Female,44,2,Stayed,Lafayette,23996
+MYIQ-EDYNA,62,62,4,"Two Year",89.1,5411.65,0,Male,23,2,Stayed,"San Bernardino",44556
+FAZM-WBYAU,45,45,0,Month-to-Month,107.75,4882.8,0,Male,50,0,Stayed,"San Bernardino",12149
+LQXR-BDAWG,52,52,2,"One Year",50.95,2610.65,0,Female,59,2,Stayed,"Upper Lake",2344
+MQSB-RJCJT,24,24,5,"One Year",20.25,439.75,0,Male,61,2,Stayed,"Nevada City",17269
+CCHX-MZLEK,20,20,0,"One Year",68.7,1416.2,0,Male,23,0,Stayed,Hayward,27311
+EIRU-RPFRK,22,22,7,"Two Year",85.35,1961.6,0,Female,71,1,Stayed,Pomona,69974
+CYPX-VFJMM,7,7,7,Month-to-Month,50.3,355.1,0,Female,19,0,Stayed,Downey,42459
+DVZF-ELNRY,8,8,0,Month-to-Month,60,487.75,0,Female,43,0,Stayed,Sunnyvale,50070
+MXUD-EKKXR,8,8,0,Month-to-Month,20.35,178.7,0,Male,61,1,Stayed,"Santa Cruz",4563
+KWIJ-QGJAX,64,64,1,"Two Year",24.8,1514.85,0,Male,62,1,Stayed,"Palo Verde",291
+KOKP-DUSZU,26,26,0,Month-to-Month,50.35,1277.5,0,Female,47,0,Stayed,Cayucos,3220
+EENQ-DEICN,1,1,1,Month-to-Month,70,70,0,Male,38,0,Churned,Samoa,395
+DWGI-OADRI,4,4,0,"Two Year",20.05,91.45,0,Female,65,0,Stayed,Oakland,24518
+ITRO-GJLTP,48,48,10,"Two Year",20.65,1057,0,Female,24,0,Stayed,"Pacific Palisades",22548
+FCWK-KLSRY,36,36,0,"One Year",75.55,2680.15,0,Female,48,0,Stayed,Arcata,19596
+DDUQ-KLXBI,21,21,0,Month-to-Month,20.5,402.85,0,Male,31,0,Stayed,"Valley Ford",66
+EJEW-MLMRW,11,11,1,Month-to-Month,74.35,834.2,0,Male,35,0,Churned,"Los Angeles",8115
+BCSW-PRSTA,58,58,0,Month-to-Month,79.8,4526.85,0,Female,47,0,Stayed,Sacramento,14966
+HTKU-SLSDZ,29,29,0,"One Year",20.35,617.35,0,Female,28,0,Stayed,Berkeley,15638
+HJTZ-QFAYI,2,2,1,Month-to-Month,104.4,242.8,45.44,Female,26,3,Churned,Tujunga,26753
+AVJD-EICRB,11,11,0,"One Year",54.6,617.85,0,Female,21,0,Stayed,Cerritos,51556
+KNZL-SFJBP,69,69,1,Month-to-Month,89.95,6143.15,6.79,Male,65,0,Churned,Piercy,200
+MASD-IWANT,64,64,9,"Two Year",111.6,7099,0,Male,71,0,Stayed,Downey,40152
+LJIE-EAAFY,22,22,0,Month-to-Month,89.25,1907.85,0,Female,38,0,Churned,Lancaster,57794
+DVHT-CUUUI,64,64,3,"Two Year",90.6,5817.45,0,Female,44,1,Stayed,Lathrop,10834
+GQIB-SLPGQ,39,39,1,"One Year",24.2,914.6,0,Female,31,2,Stayed,"Point Arena",1352
+AQIO-NDEML,48,48,0,"One Year",106.1,5082.8,0,Male,55,0,Churned,"San Diego",28201
+MLKJ-JSWEE,22,22,0,Month-to-Month,89.4,2001.5,0,Male,39,0,Churned,"North Hollywood",57146
+IAJV-WPJRI,24,24,0,"Two Year",64.35,1558.65,0,Female,23,3,Stayed,Coronado,24093
+ANNT-MTQNL,1,1,0,Month-to-Month,19.5,19.5,0,Female,42,0,Joined,"Pebble Beach",4602
+MMPK-GFKJN,10,10,0,Month-to-Month,72.85,688.65,0,Male,69,0,Churned,"San Francisco",13723
+KKJH-JLKII,1,1,0,Month-to-Month,70.5,70.5,0,Female,53,0,Churned,Keene,1436
+FHTO-UXIRQ,16,16,0,"One Year",19.3,360.35,0,Female,56,0,Stayed,"Belvedere Tiburon",13065
+FMVH-IHZMQ,1,1,0,Month-to-Month,61.15,61.15,0,Male,47,0,Joined,Placerville,34146
+BXQB-OZBKQ,33,33,6,Month-to-Month,100.6,3270.25,0,Male,79,0,Stayed,Manchester,586
+BJOI-KZGAQ,56,56,1,Month-to-Month,89.7,4952.95,41.66,Male,43,0,Stayed,"San Diego",27959
+GNEV-RNRVE,68,68,0,"Two Year",110.25,7279.35,0,Female,43,0,Stayed,Pioneer,5501
+KZPY-LLAUO,72,72,1,"Two Year",98.2,7015.9,0,Female,32,0,Stayed,Seaside,38244
+MJCH-OHVEB,1,1,1,Month-to-Month,90.1,90.1,0,Male,20,3,Joined,"San Diego",27505
+GLVI-ZVTIU,45,45,1,"One Year",113.3,5032.25,0,Female,57,0,Stayed,"Monterey Park",33280
+HATY-LQCDB,59,59,0,"Two Year",20.2,1192.3,0,Male,47,0,Stayed,"Forest Knolls",1025
+IGSS-YSYVE,22,22,10,"One Year",100.05,2090.25,0,Male,36,3,Stayed,Boulevard,1509
+LTRV-OCXLA,1,1,0,Month-to-Month,45.3,45.3,0,Male,59,0,Churned,Flournoy,84
+EZJU-ZJTWV,20,20,0,"One Year",19.7,415.9,0,Male,59,0,Stayed,Upland,48827
+EUZH-JBAWM,35,35,0,"Two Year",23.3,797.1,0,Female,38,0,Stayed,Rescue,3815
+JMUH-VDITC,7,7,3,Month-to-Month,34.2,256.6,0,Male,47,0,Stayed,Concord,36186
+NAFE-YCZJM,3,3,0,Month-to-Month,75.05,256.25,0,Female,68,0,Churned,"El Centro",43712
+IWZD-AGJCB,23,23,1,"Two Year",25.6,514.75,0,Female,27,2,Stayed,"Newport Beach",28687
+GUPI-FNYIA,29,29,0,Month-to-Month,25.15,702,0,Female,47,0,Stayed,Burbank,18539
+DXBZ-ZVSJV,18,18,0,"Two Year",58.4,964.9,0,Male,73,0,Stayed,Greenwood,1140
+FFYN-CCVLV,9,9,0,Month-to-Month,19.05,157.65,0,Female,45,0,Stayed,"San Marcos",52664
+EFWC-NORWZ,58,58,0,"One Year",107.75,6332.75,0,Female,51,0,Stayed,"San Pedro",21279
+JGHL-WJNMX,1,1,0,Month-to-Month,20.5,20.5,0,Female,24,0,Churned,Delhi,10159
+GULX-ALMUE,66,66,0,Month-to-Month,99.5,6710.5,0,Male,62,0,Churned,Igo,911
+NEQK-KWLXO,1,1,0,Month-to-Month,81.95,81.95,0,Female,44,0,Churned,Merced,23100
+HUIQ-QBJMA,8,8,1,"Two Year",19.05,201.7,0,Female,26,1,Stayed,"Stevenson Ranch",9937
+DTBV-DEBFX,68,68,10,"Two Year",19.35,1292.65,0,Female,51,1,Stayed,Cypress,47344
+GXHH-LRWJZ,18,18,0,Month-to-Month,33.5,600,0,Male,59,0,Churned,"Deer Park",223
+GHSK-UNETY,1,1,0,Month-to-Month,84.3,84.3,0,Female,27,0,Churned,Mariposa,10226
+FKKR-TYEDF,46,46,0,"One Year",101.1,4674.4,0,Female,45,0,Stayed,Riverside,17147
+EVCZ-DQNNY,8,8,0,"Two Year",20,141.6,0,Female,55,0,Stayed,Weott,270
+EGFE-GFEET,63,63,4,"Two Year",102.6,6296.75,0,Male,35,0,Stayed,Farmersville,8644
+AKDY-OWUCS,7,7,0,Month-to-Month,79.3,523.15,0,Female,54,0,Churned,Cloverdale,9210
+MLBW-JLTAK,18,18,1,Month-to-Month,85.6,1601.5,0,Male,45,3,Stayed,Venice,31021
+KTZE-SDNUF,37,37,1,"One Year",58.75,2203.1,0,Male,28,3,Stayed,"Spring Valley",56100
+HNIT-RSSTR,12,12,0,Month-to-Month,106.7,1253.9,0,Male,44,0,Churned,Bodfish,1954
+JERB-GVIUM,43,43,0,Month-to-Month,49.05,2076.2,20.29,Female,64,0,Churned,Aptos,24227
+HFRQ-UQVXU,24,24,0,Month-to-Month,102.95,2496.7,0,Male,73,0,Churned,"San Francisco",384
+HCWX-BHUSU,2,2,0,Month-to-Month,90.4,168.2,0,Female,47,0,Churned,"San Diego",34902
+BVFG-CNYCY,38,38,1,Month-to-Month,94.65,3624.3,0,Male,25,0,Churned,"Campo Seco",75
+KWVL-LMGOM,48,48,0,Month-to-Month,103.85,4946.05,0,Female,35,0,Stayed,"El Centro",43712
+BAOL-XKIMG,4,4,0,Month-to-Month,86.05,308.1,0,Male,63,0,Stayed,Menifee,14068
+NDZV-UDTWK,65,65,8,"Two Year",84.2,5324.5,0,Male,51,0,Stayed,"Woodland Hills",36123
+EFXU-CFUGL,31,31,0,"One Year",81.7,2548.65,0,Male,24,0,Stayed,Dunlap,506
+FPZB-DTGRY,49,49,3,Month-to-Month,100.85,4847.35,0,Female,56,0,Stayed,Stevinson,1960
+LEOV-RRIPJ,5,5,0,Month-to-Month,64,370.25,0,Female,37,0,Stayed,Wendel,162
+BPWC-PLNSD,1,1,10,Month-to-Month,55.7,55.7,0,Male,61,0,Joined,Westminster,88230
+MLEY-VPXMW,33,33,0,"Two Year",59.45,1884.65,0,Female,80,0,Stayed,"South El Monte",45645
+GBQX-TNKQE,60,60,0,"One Year",80.55,4847.05,0,Female,32,0,Stayed,Corona,21911
+ETYM-KAFOQ,3,3,0,Month-to-Month,70.4,204.7,0,Female,71,0,Churned,"Big Bend",265
+FPYK-IJZVP,55,55,5,"One Year",51.65,2838.55,0,Female,75,0,Stayed,Westmorland,2388
+JGIS-WOOWL,37,37,1,Month-to-Month,19.5,805.2,0,Female,57,0,Stayed,Whittier,32148
+MLWY-ULGPH,46,46,0,"Two Year",20.05,902,0,Male,61,0,Stayed,Whittier,37887
+CJKO-OCQVI,7,7,0,Month-to-Month,76.45,503.6,11.05,Female,77,2,Churned,Pasadena,32369
+LLCV-TTSAK,23,23,0,"Two Year",79.35,1835.3,15.41,Female,66,0,Stayed,"Long Beach",38902
+AUKN-EKGYO,68,68,5,"Two Year",25.25,1728.2,0,Male,47,0,Stayed,Sacramento,21313
+CCIE-YXDFK,7,7,2,Month-to-Month,75.4,533.05,0,Male,80,0,Stayed,"Menlo Park",39062
+LJTO-IKFRU,6,6,0,Month-to-Month,69.25,418.4,0,Female,50,0,Churned,Antelope,36432
+BNUF-NGWZQ,2,2,0,Month-to-Month,74.95,151.75,0,Male,54,0,Joined,"San Pablo",55720
+IWRA-BNKIW,3,3,0,Month-to-Month,107.95,318.6,0,Male,42,0,Joined,Compton,51387
+KSYD-ZSPRI,1,1,0,Month-to-Month,45.6,45.6,0,Male,31,0,Churned,"San Diego",46086
+BSYL-VZVCY,29,29,1,Month-to-Month,89.2,2698.35,0,Male,25,0,Churned,"San Diego",46086
+FMHU-SBCPI,22,22,1,Month-to-Month,54.7,1178.75,0,Female,60,0,Stayed,"Sequoia National Park",56
+AGDJ-KWXRZ,68,68,0,"Two Year",88.15,6148.45,36.29,Female,63,0,Stayed,Poway,47969
+LCDH-HBEJM,30,30,1,Month-to-Month,51.2,1561.5,0,Female,57,2,Churned,Auburn,18197
+ADKI-PEMCS,31,31,0,Month-to-Month,73.9,2217.15,0,Female,70,0,Churned,"Port Costa",173
+JWZD-YARRD,16,16,10,Month-to-Month,19.35,275.9,33.24,Female,40,3,Stayed,Marysville,38091
+FSJE-BVDBQ,25,25,7,Month-to-Month,55.55,1405.3,0,Male,49,0,Stayed,"Los Angeles",41175
+AGOK-EXYMU,3,3,0,Month-to-Month,35.45,106.85,0,Male,29,0,Churned,Cabazon,2355
+LYOA-WKGLJ,14,14,0,Month-to-Month,89.8,1129.1,0,Female,57,0,Churned,"Rio Vista",5246
+DRJI-MCLGV,25,25,0,Month-to-Month,70.95,1767.35,0,Male,52,0,Churned,"Clearlake Oaks",3684
+NECP-NBGRT,25,25,0,Month-to-Month,20.15,536.35,0,Male,43,0,Stayed,"Santa Rosa",40270
+LEPS-KRQCY,72,72,1,"Two Year",115.55,8312.4,0,Female,23,0,Stayed,Danville,32873
+KIZA-UXFWC,18,18,0,Month-to-Month,75.4,1380.4,0,Female,44,0,Stayed,"San Francisco",42959
+JQUW-CCWTZ,7,7,0,"One Year",84.35,609.65,29.17,Female,66,0,Stayed,Millbrae,20350
+KZVJ-NCKFI,34,34,0,Month-to-Month,105.35,3688.6,0,Female,47,3,Stayed,Rosemead,61623
+LHNW-XLHTB,1,1,0,Month-to-Month,45.65,45.65,0,Male,63,0,Churned,Carson,55486
+GYAE-PJFQB,68,68,1,"One Year",44.8,2983.65,0,Male,39,2,Stayed,Tustin,55062
+EJRA-ZBUXS,50,50,1,Month-to-Month,108.75,5431.9,0,Female,70,0,Stayed,Ranchita,339
+DJUM-NUVUN,43,43,0,"One Year",35.2,1463.7,0,Male,47,0,Stayed,"San Pedro",21279
+LEYI-VIKQT,27,27,0,"One Year",20.1,562.6,0,Male,31,0,Stayed,Oakland,11702
+CMMS-JDYDN,22,22,1,Month-to-Month,61.15,1422.05,0,Female,21,3,Churned,"San Mateo",23393
+HPCH-RVXTZ,40,40,4,"One Year",63.9,2635,0,Female,27,0,Stayed,Banning,25859
+DKUT-KOCLT,37,37,1,"One Year",99.2,3754.6,0,Female,55,0,Churned,Fawnskin,414
+BPTL-LXLLR,13,13,1,"One Year",75.3,989.45,0,Male,20,0,Churned,Calistoga,7384
+KLGR-PPCOJ,5,5,0,Month-to-Month,20.05,95.55,0,Male,26,0,Stayed,Weaverville,3749
+KXRT-DAOCR,54,54,1,"Two Year",65.65,3566.7,0,Male,25,2,Stayed,Davis,648
+IQSJ-XXYNX,20,20,10,Month-to-Month,20.05,406.05,0,Female,31,2,Stayed,"Los Angeles",44764
+GEOJ-MAJGL,72,72,8,"Two Year",92.4,6786.1,0,Female,20,0,Stayed,Hayward,60274
+AEUA-TAESQ,71,71,0,"Two Year",89.85,6293.45,0,Female,69,0,Stayed,"San Jose",561
+IXVL-CPBNQ,22,22,0,Month-to-Month,69.7,1490.4,0,Male,22,0,Stayed,"Long Beach",38427
+CIRI-XHPRJ,12,12,0,Month-to-Month,96,1062.1,0,Female,46,0,Churned,"Harbor City",24660
+EAUO-ZMPHV,68,68,4,"Two Year",19.95,1303.25,0,Male,47,3,Stayed,"Glen Ellen",4101
+JWQF-YAXXY,7,7,0,Month-to-Month,40.1,293.3,0,Female,36,0,Churned,"Walnut Creek",40917
+KQGI-WKRZL,22,22,1,Month-to-Month,79.2,1742.75,0,Female,27,0,Churned,"La Quinta",23971
+DEGQ-XVDRC,15,15,0,Month-to-Month,85.9,1269.55,0,Female,37,0,Churned,Keene,1436
+LGLP-HZAJR,72,72,9,"Two Year",111.95,8033.1,0,Male,47,1,Stayed,"San Rafael",28403
+FFLK-GGLEG,18,18,6,"Two Year",59.1,1011.05,31.05,Male,74,0,Stayed,"Los Angeles",47143
+NEWI-CSMMC,68,68,4,"Two Year",53,3656.25,0,Female,65,1,Stayed,"Los Angeles",3524
+MSDW-HJOHF,24,24,2,Month-to-Month,79.65,1928.7,0,Female,24,0,Stayed,Julian,3577
+JIHF-HSGNL,1,1,0,Month-to-Month,50.8,50.8,0,Male,58,0,Churned,Carmel,13121
+DNHC-FNIEW,37,37,8,"Two Year",90,3371.75,0,Female,66,0,Stayed,"Somes Bar",202
+LVXL-ZGNWY,43,43,4,"Two Year",24.25,1077.95,0,Male,60,2,Stayed,"Costa Mesa",48207
+DGPE-GSITC,56,56,0,Month-to-Month,98.6,5581.05,0,Male,62,0,Stayed,Sultana,306
+LSTL-EAKJV,1,1,0,Month-to-Month,19.4,19.4,0,Female,49,0,Joined,Modesto,26055
+HVJD-SIWNO,71,71,5,"Two Year",116.05,8297.5,42.57,Male,41,1,Stayed,"Fountain Valley",54548
+MGOW-EFVOJ,15,15,0,Month-to-Month,19.4,289.3,0,Female,47,0,Churned,"Santa Rosa",25718
+MRBY-TRKEK,72,72,9,"Two Year",85.9,6110.75,0,Female,39,0,Stayed,Covelo,2296
+EDYY-BOJOW,21,21,0,Month-to-Month,99.15,1956.4,0,Female,22,0,Stayed,"Monterey Park",33280
+LLXO-WXFQF,54,54,0,"Two Year",20.1,1079.45,0,Female,45,0,Stayed,Pleasanton,36669
+IGCM-IJVZI,24,24,0,Month-to-Month,49.3,1233.25,0,Female,34,0,Stayed,Homewood,858
+DCRW-MXEKE,72,72,4,"One Year",103.2,7362.9,45.38,Female,30,2,Stayed,Amboy,42
+JHZC-WKLDX,6,6,0,Month-to-Month,44.4,263.05,0,Female,75,0,Stayed,"Thousand Palms",6242
+JYGK-KWXKU,4,4,1,Month-to-Month,50.85,239.55,0,Female,36,1,Churned,"Los Angeles",29299
+GYRA-JKVIJ,39,39,0,"One Year",95.55,3692.85,0,Female,29,0,Churned,Riverdale,5729
+ETQW-DQXYU,51,51,4,"One Year",60.5,3145.15,0,Female,56,0,Stayed,"West Covina",30458
+GJZM-MVNJO,33,33,0,"One Year",80.1,2603.3,0,Male,29,0,Stayed,Poway,47969
+EEIO-YGADJ,20,20,0,Month-to-Month,19.4,415.4,0,Male,20,0,Stayed,Torrance,40705
+JPPI-DIRXY,31,31,9,"Two Year",80.55,2471.6,0,Female,58,0,Stayed,Castella,228
+LFCJ-WZJLH,64,64,4,Month-to-Month,81.05,5135.35,0,Male,47,2,Stayed,"San Jose",52334
+DHTV-MFRBR,9,9,9,"One Year",90.35,767.9,0,Male,22,3,Stayed,Covelo,2296
+IZKR-COBPE,69,69,10,"Two Year",46.25,3121.4,0,Female,29,2,Stayed,"Live Oak",8695
+MPET-QFTWN,1,1,0,Month-to-Month,79.15,79.15,0,Female,33,0,Joined,Burbank,25882
+ENSK-WBGFG,68,68,4,"Two Year",72.95,4953.25,0,Male,45,1,Stayed,Cypress,47344
+MUDY-NLIEW,14,14,3,Month-to-Month,66.6,979.5,0,Male,48,0,Stayed,"Tahoe City",4002
+HPDU-DKNPR,1,1,0,Month-to-Month,70.1,70.1,0,Female,53,0,Joined,"Birds Landing",138
+BYBL-RUEFS,51,51,7,"Two Year",24.95,1222.25,0,Male,46,2,Stayed,"San Jose",14792
+IQLU-JHXIC,4,4,1,Month-to-Month,99.6,347.65,25.79,Female,68,0,Churned,Hickman,1055
+AWCD-JIOTX,57,57,1,Month-to-Month,94,5438.95,0,Female,77,0,Stayed,"Granada Hills",48867
+JSPQ-LYGMO,14,14,0,Month-to-Month,74.3,1096.25,0,Female,75,0,Churned,Inglewood,28680
+HGTF-FWEFY,72,72,1,"Two Year",110.75,7751.7,0,Female,48,0,Stayed,Milford,481
+EHMY-OWVGZ,3,3,0,Month-to-Month,75.1,270.7,0,Female,63,0,Churned,"San Diego",47224
+FZNV-PRTSD,32,32,0,"One Year",19.75,624.15,0,Female,46,0,Stayed,"El Centro",43712
+HZHU-RWEGA,71,71,6,"Two Year",99.2,7213.75,0,Female,70,0,Stayed,Camptonville,632
+EVIJ-FOJSR,60,60,5,"Two Year",99,6017.9,0,Male,69,0,Stayed,"La Grange",1749
+LMAM-ZAFOZ,62,62,9,Month-to-Month,70.45,4300.45,0,Female,25,3,Stayed,Patterson,15536
+MOTF-WNVAT,38,38,0,"Two Year",20.05,741.5,0,Female,33,0,Stayed,Needles,5488
+GHSQ-RKLGS,48,48,9,Month-to-Month,117.45,5438.9,0,Female,76,0,Churned,"Hat Creek",397
+CEKG-HYGPT,72,72,5,"Two Year",82.15,5784.3,0,Male,62,0,Stayed,Ventura,32899
+GYFU-OUHHH,2,2,8,Month-to-Month,19.85,52,0,Female,27,0,Joined,"Los Angeles",15140
+IOYR-UNWCD,16,16,1,Month-to-Month,89.45,1430.25,0,Female,41,0,Churned,"San Joaquin",4318
+JJPI-TMBNI,26,26,0,Month-to-Month,44.45,1183.8,0,Female,46,0,Stayed,Baker,904
+DCBB-KDBLB,20,20,0,"One Year",19.5,403.15,0,Female,38,0,Stayed,"Three Rivers",2318
+KHEF-STGWR,7,7,0,Month-to-Month,19.3,144.95,0,Female,51,0,Stayed,Grenada,616
+HXBW-KNARM,23,23,3,Month-to-Month,90,2024.1,0,Male,70,0,Stayed,"El Portal",579
+DKSI-GNXFR,67,67,8,"Two Year",111.05,7321.05,0,Male,51,0,Stayed,Milpitas,62848
+FMRV-LOKMX,48,48,0,"One Year",24.55,1203.95,36.04,Female,63,0,Stayed,Porterville,65566
+LOXO-IHKYC,64,64,0,"Two Year",104.4,6692.65,0,Male,37,0,Stayed,Oakland,21097
+AXPE-PUKUR,3,3,0,Month-to-Month,74.55,233.65,0,Female,20,0,Joined,Novato,13361
+GMLI-WKZOA,32,32,0,"One Year",104.05,3416.85,0,Female,44,0,Stayed,Littlerock,11198
+EFZY-GDLQA,51,51,6,"One Year",84.2,4299.75,39.68,Male,36,3,Stayed,Gualala,1916
+GNJU-ULCRS,16,16,0,Month-to-Month,19.7,342.4,0,Male,35,0,Churned,"Sherman Oaks",22085
+JKUU-QANHR,18,18,0,"Two Year",20.05,388.6,0,Male,64,0,Stayed,Fresno,6848
+IXRG-DNRKK,23,23,0,"Two Year",40.1,857.75,0,Male,36,3,Stayed,Camino,4829
+FGLS-SIIVL,35,35,0,Month-to-Month,24.15,812.5,0,Female,54,0,Stayed,Fairfax,8486
+EJDH-BWVBJ,58,58,10,"Two Year",20.5,1191.4,36.92,Female,52,2,Stayed,Arbuckle,4796
+LXTL-RLOPA,42,42,9,Month-to-Month,94.4,4014.6,0,Male,52,0,Stayed,Penryn,2048
+MBHE-JNLRO,28,28,0,Month-to-Month,103.3,2890.65,0,Female,79,0,Churned,Atherton,6876
+MAVR-JYLJU,41,41,2,Month-to-Month,94.9,3848,0,Female,25,3,Stayed,Lookout,386
+MHYN-EUOUY,39,39,1,"One Year",104.7,4134.85,0,Female,35,0,Churned,"Los Angeles",3642
+ENES-HHYFJ,65,65,4,Month-to-Month,104.25,6812.95,0,Male,48,0,Stayed,Sutter,3193
+CUZU-MOQKE,46,46,6,"One Year",70.6,3231.05,0,Female,45,0,Stayed,Herlong,946
+DIDN-SIMNT,36,36,0,Month-to-Month,84.75,3050.15,0,Male,22,0,Churned,"San Diego",74232
+NDCY-HXCEW,62,62,0,Month-to-Month,80.4,4981.15,0,Male,49,0,Stayed,Bonita,17389
+IJNZ-VKUJF,30,30,0,"One Year",70.4,2044.75,0,Male,47,0,Stayed,"San Diego",25232
+EZJT-QBGJI,70,70,0,"Two Year",113.65,7939.25,0,Female,28,0,Stayed,Sylmar,81986
+KEMS-ZWKYF,24,24,7,Month-to-Month,93,2248.05,0,Male,54,0,Stayed,Bakersfield,59195
+ABJG-QLGHV,11,11,0,Month-to-Month,20.25,208,0,Male,46,0,Stayed,Cupertino,54431
+EEVE-CAGRB,58,58,0,"One Year",99.15,5720.95,0,Male,54,0,Stayed,Escondido,49281
+MJWM-BDKEX,2,2,0,Month-to-Month,44.35,81.25,0,Male,45,0,Churned,Lakewood,30173
+HGMS-AZDKE,50,50,6,"One Year",69.65,3442.15,0,Male,25,0,Stayed,Corcoran,23506
+DIIJ-MZMZO,8,8,2,Month-to-Month,80.45,583.45,0,Male,67,0,Churned,"San Rafael",40239
+HMOJ-MPOKX,37,37,0,"One Year",80.05,3019.1,0,Female,48,0,Stayed,"Los Angeles",30596
+HGDM-MTIRP,41,41,1,"One Year",111.95,4534.9,0,Male,66,0,Churned,"Santa Ana",44117
+BJQQ-NBEWO,55,55,1,"Two Year",85.1,4657.95,0,Female,37,3,Stayed,Anaheim,81333
+IVQF-EZWAJ,44,44,1,Month-to-Month,61.9,2924.05,0,Male,41,3,Stayed,"Chino Hills",66754
+CVSE-TOYMY,2,2,0,Month-to-Month,20.4,42.9,0,Male,42,2,Joined,Woodland,15022
+CMRA-FINFP,44,44,4,"Two Year",19.35,847.25,0,Male,74,0,Stayed,"San Francisco",56330
+DUFY-DYKXX,10,10,0,Month-to-Month,19.75,208.25,0,Male,24,0,Stayed,"Mountain View",32143
+ERFW-PHULH,72,72,0,"Two Year",19.85,1434.1,0,Male,52,0,Stayed,Redding,41476
+NAZY-FLUBY,24,24,1,Month-to-Month,101.05,2391.8,0,Male,44,0,Churned,"Santa Fe Springs",16271
+LKZZ-FMMQC,18,18,0,"One Year",89.6,1633,0,Male,43,0,Stayed,Sebastopol,31266
+GWZN-NOGNF,64,64,7,"Two Year",94.6,5948.7,0,Female,45,0,Stayed,"California City",8316
+AQNS-LVUPF,38,38,7,"Two Year",102.6,4009.2,45.81,Male,79,0,Stayed,Milford,481
+ACSF-MFCZF,6,6,0,Month-to-Month,98.25,560.6,0,Female,79,0,Churned,Lakewood,30173
+EZRO-UPKPA,18,18,5,Month-to-Month,56.8,1074.65,0,Male,19,0,Stayed,Stockton,49965
+JIKK-QCSSE,11,11,0,"One Year",53.8,651.55,0,Female,33,0,Stayed,"Mammoth Lakes",8217
+BPIF-DTMTQ,72,72,9,"Two Year",25.7,1937.4,0,Female,70,0,Stayed,Inglewood,27778
+HHIX-UZQXL,47,47,0,Month-to-Month,75.45,3545.1,0,Female,19,0,Stayed,"Elk Creek",587
+IIOD-EIMQA,12,12,1,Month-to-Month,98.1,1060.2,49.06,Female,67,0,Churned,"Catheys Valley",986
+JYFQ-DBJCI,11,11,8,"One Year",75.2,775.3,0,Male,65,1,Stayed,Stockton,49657
+HFJN-OAVSZ,20,20,7,"One Year",19.7,395.6,0,Female,50,3,Stayed,"North Fork",3376
+HTDI-KVIMM,8,8,6,Month-to-Month,19.65,169.75,0,Male,58,3,Stayed,Bodega,584
+KCIJ-ERIDS,72,72,0,"Two Year",111.65,7943.45,0,Female,72,0,Stayed,Somis,2966
+IHHE-RZXYN,6,6,5,Month-to-Month,91,531,0,Male,39,2,Churned,"Canoga Park",49242
+HDKG-JNHSM,40,40,1,Month-to-Month,101.85,4086.3,0,Male,76,0,Churned,Redding,30338
+BWSM-XRBCI,30,30,0,Month-to-Month,95,2852.4,0,Male,36,0,Stayed,Murrieta,36149
+MOSL-ZWGBY,29,29,0,Month-to-Month,76,2215.25,0,Female,24,0,Stayed,Clovis,46858
+GFZB-VAWZG,4,4,1,Month-to-Month,44.8,169.65,0,Male,40,2,Stayed,"Woodland Hills",25988
+JTYR-DEIJE,61,61,0,"Two Year",25,1498.35,0,Female,62,1,Stayed,"San Bernardino",24644
+GGRT-GWHID,10,10,0,Month-to-Month,70,740,0,Male,41,0,Churned,Anaheim,81333
+HGUG-IIPDV,39,39,0,"One Year",47.85,1886.4,0,Female,22,0,Stayed,Orinda,17964
+EFGP-PADIU,4,4,0,Month-to-Month,44.55,174.3,0,Male,44,0,Churned,"San Juan Bautista",3402
+BGXD-WASXX,4,4,0,"One Year",20.4,84.75,0,Female,52,1,Stayed,"La Quinta",23971
+FLYW-BWWKK,23,23,1,"One Year",86.8,1975.85,0,Male,66,0,Stayed,"Thousand Oaks",42526
+IXCB-UIBXH,6,6,0,Month-to-Month,98.15,567.45,0,Female,20,0,Churned,Ventura,46894
+FXJH-BHUAK,50,50,4,"One Year",54.9,2614.1,0,Male,46,0,Stayed,Torrance,17058
+FNPN-EHJRN,1,1,0,Month-to-Month,79.5,79.5,0,Male,60,0,Churned,"Dana Point",27730
+EDMR-KJECD,2,2,0,Month-to-Month,75.45,158.4,0,Female,77,0,Churned,"Culver City",31963
+HOPF-RZHVE,38,38,0,Month-to-Month,99.25,3777.15,0,Male,30,0,Churned,Tehachapi,25805
+DTDD-UVDIK,10,10,4,"Two Year",20,200,0,Female,23,3,Stayed,"Ben Lomond",6407
+DKZU-WWGIY,70,70,9,"Two Year",101,7085.5,0,Male,26,0,Stayed,"Santa Maria",43684
+DMJY-OOLBY,60,60,6,Month-to-Month,109.45,6572.85,0,Male,36,0,Stayed,"Death Valley",443
+IATL-UAMPG,17,17,2,Month-to-Month,76.45,1233.4,0,Male,66,0,Churned,"Santa Ana",37879
+CVBI-WUWAC,71,71,2,"Two Year",93.7,6585.35,0,Female,55,0,Churned,"Rio Dell",3284
+JFEF-WTIIG,70,70,5,"Two Year",64.55,4504.9,46.06,Female,21,0,Stayed,"San Diego",11650
+LLKY-TOFLO,1,1,0,Month-to-Month,19.95,19.95,0,Female,58,0,Joined,"Palo Alto",45499
+BGHH-BKAHS,72,72,1,"Two Year",20.7,1492.1,0,Male,19,0,Stayed,"Suisun City",39279
+ARTP-ANABM,57,57,1,"One Year",53.45,3053,0,Female,33,2,Stayed,"Woodland Hills",25988
+DCFC-KLWEH,7,7,0,"One Year",19.5,128.6,0,Male,48,0,Stayed,Calexico,27804
+LKFP-KMLOV,47,47,0,"One Year",94.8,4535.85,3.34,Male,51,0,Stayed,Glendale,17015
+CKGH-QLAKX,1,1,0,Month-to-Month,24.05,24.05,0,Male,21,0,Churned,Bakersfield,53481
+DWDP-UKITP,4,4,0,Month-to-Month,70.2,237.95,0,Male,43,0,Churned,Dixon,18529
+HSYL-NCEYX,37,37,1,Month-to-Month,99.5,3762,0,Female,26,0,Churned,Escondido,48690
+ETVX-XNPXG,48,48,1,"Two Year",91.05,4370.75,0,Male,65,0,Stayed,"San Miguel",2666
+AEAR-NKQQU,1,1,0,Month-to-Month,19.55,19.55,0,Female,30,0,Joined,Mckinleyville,15921
+MSKP-LOXQY,65,65,0,"One Year",61.35,3874.1,0,Female,55,2,Stayed,"San Jose",59632
+KEFK-KWOAM,59,59,6,"One Year",65.5,3801.3,0,Female,57,0,Stayed,"Kings Beach",4806
+LLKO-HYKZX,22,22,0,Month-to-Month,50.6,1073.3,0,Female,34,0,Stayed,Vallejo,159
+HYPG-XISGI,1,1,0,Month-to-Month,70.45,70.45,0,Male,61,1,Joined,Escondido,48690
+LKEH-CILGP,54,54,9,Month-to-Month,30.4,1621.35,0,Male,45,0,Stayed,"Hawaiian Gardens",14852
+HIXQ-ZQUAV,6,6,4,"Two Year",20.1,100.35,0,Female,52,1,Stayed,Downey,24908
+KSJJ-BKSIV,50,50,0,"One Year",19.75,989.05,0,Female,63,0,Stayed,"Cedar Glen",455
+BQVK-DNPWP,13,13,0,"One Year",19.3,259.65,35.28,Male,44,0,Stayed,Brea,1408
+KPCY-RUXDH,27,27,0,"Two Year",19.7,509.3,0,Male,48,1,Stayed,Tecate,91
+NBWQ-XSZCV,71,71,4,"Two Year",109.3,7782.85,0,Male,36,3,Stayed,Compton,47305
+FZMR-GDWHO,31,31,0,Month-to-Month,101.4,3143.65,0,Male,20,0,Stayed,Meridian,776
+BDRX-EOAIX,6,6,0,Month-to-Month,30.5,208.7,0,Male,47,0,Churned,Lakewood,27563
+HOGL-LIEBI,1,1,0,Month-to-Month,77.15,77.15,0,Female,32,0,Churned,"North Fork",3376
+LNJR-CBMUF,64,64,4,"Two Year",76.1,4818.8,0,Male,47,0,Stayed,Graton,390
+MTCH-KEBKD,12,12,0,Month-to-Month,100.15,1164.3,0,Female,24,0,Churned,"Mount Laguna",81
+LHWM-BQTXG,4,4,0,Month-to-Month,81,340.85,0,Male,25,0,Churned,Westwood,4158
+GYCW-ZZLKF,3,3,9,Month-to-Month,20.85,72,0,Female,35,0,Joined,"San Francisco",17372
+HFHF-KHENZ,67,67,6,"Two Year",19.4,1284.2,0,Male,48,2,Stayed,"Sun City",13151
+BGTW-BPGYP,68,68,3,"Two Year",111.75,7511.3,0,Female,40,3,Stayed,Kernville,1873
+HMPH-FKJAN,66,66,6,Month-to-Month,100.05,6871.9,0,Male,71,0,Churned,Fairfield,77683
+JTUS-OEGTA,53,53,1,"One Year",60.05,3229.65,0,Male,71,0,Churned,"San Jose",27023
+BOGF-BLRTP,1,1,0,Month-to-Month,69.6,69.6,0,Female,68,0,Churned,"Tahoe Vista",678
+DGSD-JZNPI,4,4,4,Month-to-Month,48.55,201,0,Male,26,0,Churned,Orosi,9780
+KCFM-SCOLV,71,71,0,"One Year",56.45,3985.35,0,Male,73,0,Stayed,Artesia,16398
+HVGF-UTQJZ,27,27,0,Month-to-Month,79.5,2180.55,0,Male,35,0,Churned,"West Sacramento",12756
+KSIU-BAIPS,9,9,0,Month-to-Month,85.05,746.5,0,Male,68,0,Churned,Chualar,1140
+FBIA-ASMLM,36,36,8,"Two Year",20.25,717.95,0,Female,26,2,Stayed,"Menlo Park",39062
+CSQU-WFSAJ,7,7,0,Month-to-Month,94.25,669,0,Male,22,0,Churned,Bloomington,25995
+JUKW-WZUIV,65,65,2,"Two Year",76.15,4929.55,0,Male,45,0,Stayed,Fresno,54701
+EJTJ-RBYLZ,1,1,0,Month-to-Month,19.9,19.9,0,Female,22,0,Joined,"Newport Beach",22133
+IIJI-ZWYHC,4,4,1,Month-to-Month,100.2,420.2,0,Male,57,0,Churned,Temecula,25655
+MMTC-AASTD,26,26,1,Month-to-Month,84.95,2169.75,0,Female,65,0,Churned,"Simi Valley",64802
+MHBL-FDDDF,10,10,8,Month-to-Month,88.85,929.45,0,Female,45,3,Stayed,Anza,3745
+KMUA-CDYXU,10,10,0,Month-to-Month,95.35,898.35,0,Male,71,0,Churned,Escondido,48690
+JMRF-KEDOO,60,60,7,"Two Year",76.95,4543.95,0,Male,39,3,Stayed,Eureka,23570
+FWWD-YAHCO,65,65,0,"One Year",24.8,1600.95,0,Male,50,0,Stayed,Coleville,1332
+MKYB-WUVMI,72,72,5,"Two Year",104.9,7559.55,0,Male,43,3,Stayed,Oroville,17782
+GIEB-TOQUH,1,1,0,Month-to-Month,20.45,20.45,0,Male,32,0,Joined,"Santa Rosa",40270
+DHTU-YBQXX,48,48,3,Month-to-Month,100.05,4834,37.45,Female,58,0,Stayed,"Long Beach",35656
+GXNE-LOOPU,71,71,0,"Two Year",99.65,6951.15,3.33,Female,73,0,Stayed,Richmond,28450
+JZZQ-ZYUXR,58,58,8,"Two Year",98.9,5780.7,0,Male,80,0,Stayed,"Big Pine",1826
+EELX-IZXAG,31,31,5,"Two Year",89.45,2807.65,31.58,Male,76,0,Stayed,Novato,16429
+IPWZ-GMOBY,6,6,0,Month-to-Month,55.7,335.65,0,Male,22,0,Stayed,Irvine,41062
+EMBS-CPWIZ,49,49,0,"Two Year",66.15,3199,0,Male,49,0,Stayed,"Hawaiian Gardens",14852
+BHMF-AOPSE,30,30,0,Month-to-Month,91.7,2758.15,0,Female,69,0,Churned,"San Diego",47224
+EGQW-JFITR,25,25,1,Month-to-Month,89.1,2368.4,0,Female,36,0,Churned,"Rancho Cucamonga",51970
+GTGT-KGOLF,9,9,0,"Two Year",79.55,718.55,0,Male,73,0,Stayed,Olancha,318
+IUTG-ZRSRQ,9,9,0,Month-to-Month,85.35,758.6,0,Male,28,0,Churned,"San Jose",13481
+HEAR-DWQYL,29,29,0,"One Year",101.45,2948.6,0,Male,79,0,Stayed,"Shingle Springs",24738
+CMMY-BONHR,1,1,0,Month-to-Month,25.75,25.75,0,Female,23,0,Joined,Hercules,22479
+DASF-JOUUR,68,68,4,"Two Year",25.05,1629.2,0,Male,19,0,Stayed,Downey,42459
+DCPN-NQQMM,34,34,0,Month-to-Month,105.35,3540.65,0,Male,51,0,Stayed,Fulton,476
+ABZW-YNPHD,1,1,0,Month-to-Month,20.75,20.75,0,Male,49,0,Joined,Oakland,15438
+KXCG-PLPGY,3,3,0,"Two Year",71.1,213.35,2.62,Female,36,0,Joined,"Sun Valley",46639
+DQSP-DIITP,1,1,0,Month-to-Month,25.7,25.7,0,Female,30,0,Joined,Creston,1203
+HWWY-CFWGO,4,4,1,Month-to-Month,46,181.6,0,Female,68,3,Churned,Fallbrook,42239
+JPLU-OQJKN,71,71,6,"Two Year",19.6,1387.45,0,Male,64,3,Stayed,Tomales,384
+ICVQ-AWHAZ,17,17,0,Month-to-Month,93.85,1625.65,0,Male,36,0,Churned,Sunnyvale,64010
+KHNU-QZNNF,6,6,1,Month-to-Month,48.95,273.25,0,Female,28,1,Stayed,Mccloud,1586
+COEZ-UKNDD,2,2,0,Month-to-Month,94,181.7,0,Male,65,0,Churned,Sloughhouse,4731
+BBJG-SXWMM,1,1,1,Month-to-Month,49.55,49.55,0,Female,73,0,Churned,Escondido,17944
+DDHJ-KYRTQ,46,46,9,"One Year",56.9,2560.1,0,Male,52,2,Stayed,"El Cajon",55277
+KNUC-XBISF,1,1,0,Month-to-Month,90.75,90.75,0,Male,26,0,Churned,Vallejo,42209
+DRKT-DWWSI,33,33,0,"Two Year",19.8,641.35,0,Female,35,1,Stayed,Vallejo,37218
+EIDW-GPDRS,17,17,0,"One Year",82.65,1470.05,0,Female,79,0,Stayed,"La Jolla",42617
+CTNK-MMKOE,5,5,0,Month-to-Month,20.35,122,0,Male,39,1,Stayed,Alleghany,118
+ALEA-UWZYK,10,10,0,Month-to-Month,24,226.55,0,Male,35,0,Stayed,Lakewood,27563
+CRKW-HWOQE,22,22,3,"One Year",20.15,419.9,0,Male,37,0,Stayed,"Long Beach",63136
+GPFH-MUYXC,10,10,0,Month-to-Month,95.2,930.4,0,Male,54,0,Churned,Greenview,295
+MPCG-LADIT,9,9,0,Month-to-Month,77.65,714.15,0,Female,40,0,Churned,"Amador City",222
+FCLI-QVXQF,24,24,4,Month-to-Month,29.1,688,0,Male,25,0,Stayed,"San Jose",45257
+JKLR-LWJRG,10,10,0,"Two Year",61.9,619,0,Male,56,1,Stayed,Wilmington,53323
+AQCC-MZWIM,1,1,0,Month-to-Month,78.05,78.05,0,Female,20,0,Churned,Ahwahnee,1968
+DRLU-ZIOLU,24,24,1,Month-to-Month,39.1,971.3,0,Male,75,0,Churned,"Soda Springs",88
+MFRA-SXYDS,21,21,0,Month-to-Month,36,780.15,0,Male,39,0,Stayed,"Los Molinos",3756
+CZWE-XKNQM,64,64,7,"Two Year",110.3,6997.3,0,Female,49,1,Stayed,Dublin,29636
+JUSD-OQSGZ,3,3,0,Month-to-Month,80.35,253.8,0,Male,60,0,Joined,Bakersfield,53481
+BWLC-HWELF,71,71,0,"One Year",85.45,6028.95,0,Male,19,1,Stayed,"Mount Hamilton",38
+ACXJ-PKPUC,1,1,0,Month-to-Month,83.4,83.4,0,Female,49,0,Joined,Fremont,33883
+MLYY-ZLBFA,3,3,0,Month-to-Month,20.5,76.95,0,Male,28,0,Joined,"San Gabriel",38041
+JXID-EQMFV,46,46,1,"Two Year",19.95,927.1,0,Female,56,0,Stayed,"Palos Verdes Peninsula",24979
+LNAQ-DEVZH,5,5,0,"One Year",69.35,341.6,0,Female,67,0,Stayed,Bonsall,3849
+HQAA-YAHVA,3,3,0,Month-to-Month,74.75,238.1,38.84,Female,48,0,Joined,Lebec,1247
+MJCK-NPBGP,24,24,0,Month-to-Month,54.95,1348.5,0,Male,28,0,Stayed,"Mt Baldy",47
+EXVJ-BBNDK,66,66,0,"Two Year",20.55,1357.1,17.14,Male,57,2,Stayed,Ventura,27381
+MITD-EXWUE,25,25,0,"Two Year",19.8,475.2,0,Female,42,0,Stayed,Traver,646
+JUIA-YRHKS,56,56,9,"One Year",99.75,5608.4,0,Female,45,0,Stayed,"San Diego",30206
+HELS-OCNFM,23,23,4,"Two Year",25.1,611.45,0,Female,47,2,Stayed,"Los Angeles",44150
+DQKN-JTOTZ,25,25,10,"One Year",26.8,733.55,0,Female,56,0,Stayed,"Sequoia National Park",56
+DKJX-TITZM,32,32,0,Month-to-Month,101.35,3334.9,0,Female,33,0,Stayed,Camptonville,632
+DIRJ-TRWWZ,23,23,4,"Two Year",88.45,2130.55,0,Female,74,3,Stayed,"Live Oak",8695
+CMJS-OHWSM,49,49,3,"One Year",20.05,923.1,0,Female,56,0,Stayed,Chilcoot,650
+DWHY-QOTZY,1,1,0,Month-to-Month,20.05,20.05,0,Male,46,3,Joined,"Hat Creek",397
+GZMP-WDKJE,5,5,0,Month-to-Month,70.25,331.9,12.48,Male,68,0,Churned,Gasquet,532
+FAKP-KXQZC,50,50,0,"Two Year",19.4,1023.95,0,Female,36,0,Stayed,Sacramento,44683
+BSGG-MXLJG,49,49,0,"One Year",19.45,921.3,0,Female,25,1,Stayed,"Buena Park",44442
+ICCO-KCOKX,72,72,8,"Two Year",71.45,5025.85,0,Female,26,1,Stayed,"Santa Cruz",8365
+DZZL-UQBLF,7,7,10,"One Year",29.8,220.45,11.83,Male,80,0,Stayed,"El Cerrito",23141
+BPWF-OTTAR,45,45,4,Month-to-Month,81.4,3775.85,0,Male,64,0,Stayed,"Sequoia National Park",56
+KOSN-XXBFQ,19,19,0,Month-to-Month,45,865.85,22.55,Male,53,0,Stayed,"San Marino",13158
+GMWZ-KGCCS,61,61,3,"One Year",103.9,6449.15,0,Male,37,1,Stayed,Jamestown,9559
+BMFN-KAGHH,4,4,0,Month-to-Month,45.9,199.75,0,Male,46,0,Stayed,Altadena,36243
+LCDV-MFLEF,38,38,0,Month-to-Month,103.65,3988.5,0,Female,22,0,Stayed,"Los Angeles",21
+GCMX-VVIEP,1,1,0,Month-to-Month,45.05,45.05,0,Male,23,0,Churned,Caspar,333
+FTDD-JLNGW,15,15,0,"One Year",45.9,693.45,16.27,Female,60,0,Stayed,Gerber,3357
+JZAZ-SAAML,71,71,0,"Two Year",108.05,7532.15,0,Male,30,0,Churned,Martinez,46677
+LMSQ-IIQFG,2,2,0,Month-to-Month,20.65,38.7,0,Female,60,0,Churned,"Rancho Mirage",12465
+IGTV-ROOEE,24,24,1,Month-to-Month,93.15,2231.05,0,Male,77,0,Churned,"San Diego",34902
+KYCP-YNHYV,24,24,0,Month-to-Month,49.7,1218.25,0,Male,21,0,Stayed,"San Diego",25569
+LDJD-BXKSB,64,64,9,"Two Year",68.3,4378.8,0,Female,57,0,Stayed,Sheridan,1219
+DIMD-ISSXA,35,35,0,"One Year",73,2471.25,0,Male,79,0,Stayed,Descanso,1587
+DPHW-UIAVS,1,1,0,Month-to-Month,59.55,59.55,0,Male,20,1,Joined,Eureka,23570
+FUJQ-ZFOBO,20,20,0,Month-to-Month,85.8,1727.5,0,Female,67,0,Churned,"Mc Kittrick",302
+ITNW-LKATC,1,1,0,Month-to-Month,24.7,24.7,0,Male,47,3,Joined,"San Leandro",36568
+MMPJ-IYPAW,61,61,0,"Two Year",89.65,5308.7,0,Female,52,0,Stayed,"San Diego",28201
+CDZJ-UCNTQ,4,4,0,Month-to-Month,89.2,346.2,0,Female,74,0,Churned,Anaheim,36301
+JXFB-IIKWE,1,1,0,Month-to-Month,80.5,80.5,0,Male,24,0,Churned,Vernalis,274
+IGDD-OEUSM,68,68,1,"One Year",83.65,5733.4,46.99,Female,50,2,Stayed,Escondido,48690
+BFGJ-DRVTS,2,2,0,Month-to-Month,80.6,155.8,0,Female,54,0,Churned,"San Diego",34902
+JKUS-JAXHW,45,45,0,Month-to-Month,89.3,4016.85,44.63,Female,41,0,Churned,"Sutter Creek",4610
+BZAH-WOXZJ,34,34,0,Month-to-Month,105.1,3634.8,0,Female,38,0,Stayed,Herlong,946
+HYNP-FJEQW,35,35,7,"One Year",19.9,666,0,Male,63,2,Stayed,Sacramento,31422
+MYDI-TGDSJ,2,2,1,"Two Year",74.2,140.1,0,Male,69,0,Joined,"Van Nuys",51348
+EJNP-PAFIT,12,12,0,Month-to-Month,19.45,227.45,0,Female,27,0,Stayed,"San Carlos",28098
+DUEV-EVRRG,57,57,0,"Two Year",104.9,5913.95,1.69,Male,68,0,Stayed,Compton,29825
+IBEM-KAXFY,35,35,4,Month-to-Month,70.3,2416.55,0,Female,61,0,Churned,"Morro Bay",10909
+HTLG-UPSQK,69,69,9,"Two Year",86.9,6194.1,0,Male,47,3,Stayed,Tecate,91
+IUPB-XEKIB,63,63,1,"One Year",107.5,6873.75,0,Female,50,0,Churned,"Big Bend",265
+LNRH-QIIVJ,41,41,0,Month-to-Month,45.2,1841.9,0,Female,58,3,Stayed,"Stinson Beach",781
+GCDO-LCNJJ,47,47,5,"Two Year",21.3,1041.8,0,Female,47,3,Stayed,Palmdale,34045
+HROY-CKUQC,25,25,1,Month-to-Month,34,853,0,Female,19,0,Churned,"San Diego",30206
+KDVC-VZBAI,40,40,5,"One Year",80.8,3132.75,0,Male,46,0,Stayed,Guadalupe,5726
+HSMH-UYNSW,2,2,0,Month-to-Month,69.8,146.65,0,Male,31,0,Joined,Winterhaven,3663
